@@ -10,28 +10,51 @@
     .card { border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
     #resultTable th, #resultTable td { font-size: 0.9rem; }
     textarea { height: 100px; resize: none; }
+    #loadingSpinner {
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 1000;
+    }
   </style>
 </head>
 <body>
   <div class="container">
     <h2 class="text-center mb-4">Painel INSS - Médicos</h2>
 
+    <!-- Spinner -->
+    <div id="loadingSpinner">
+      <div class="spinner-border text-primary" role="status">
+        <span class="visually-hidden">Carregando...</span>
+      </div>
+    </div>
+
     <div class="card p-4 mb-4">
       <div class="row g-3">
-        <div class="col-md-5">
+        <div class="col-md-3">
           <input type="text" id="searchName" class="form-control" placeholder="Buscar por nome...">
         </div>
-        <div class="col-md-3">
+        <div class="col-md-2">
           <select id="statusFilter" class="form-select">
-            <option value="">Todos</option>
+            <option value="">Todos Status</option>
             <option value="PAGO">Pago</option>
             <option value="PENDENTE">Pendente</option>
           </select>
         </div>
-        <div class="col-md-4 text-end">
+        <div class="col-md-3">
+          <select id="hospitalFilter" class="form-select">
+            <option value="">Todos Hospitais</option>
+          </select>
+        </div>
+        <div class="col-md-2">
+          <select id="mesFilter" class="form-select">
+            <option value="">Todos Meses</option>
+          </select>
+        </div>
+        <div class="col-md-2 text-end">
           <button class="btn btn-primary" onclick="filtrar()">Filtrar</button>
-          <button class="btn btn-success" onclick="exportarExcel()">Excel</button>
-          <button class="btn btn-danger" onclick="exportarPDF()">PDF</button>
         </div>
       </div>
     </div>
@@ -40,6 +63,11 @@
       <label>Cole os nomes e valores recebidos:</label>
       <textarea class="form-control" id="inputRecebimento" placeholder="Ex: JOÃO - 4000"></textarea>
       <button class="btn btn-dark mt-2" onclick="processar()">Processar Recebimento</button>
+    </div>
+
+    <div class="card p-4 mb-4 text-end">
+      <button class="btn btn-success me-2" onclick="exportarExcel()">Excel</button>
+      <button class="btn btn-danger" onclick="exportarPDF()">PDF</button>
     </div>
 
     <div class="card p-4">
@@ -54,6 +82,7 @@
               <th>TED</th>
               <th>INSS</th>
               <th>Status</th>
+              <th>Contrato</th>
             </tr>
           </thead>
           <tbody id="resultBody"></tbody>
@@ -65,12 +94,42 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
   <script>
-    let dados = []
+    let dados = [];
+
+    function mostrarSpinner() {
+      document.getElementById("loadingSpinner").style.display = "block";
+    }
+
+    function esconderSpinner() {
+      document.getElementById("loadingSpinner").style.display = "none";
+    }
 
     async function carregarJSON() {
+      mostrarSpinner();
       const response = await fetch('base_inss.json');
       dados = await response.json();
+      popularFiltros();
       renderizarTabela(dados);
+      esconderSpinner();
+    }
+
+    function popularFiltros() {
+      const hospitalSet = new Set();
+      const mesSet = new Set();
+      dados.forEach(d => {
+        if (d.hospital) hospitalSet.add(d.hospital);
+        if (d.mes) mesSet.add(d.mes);
+      });
+
+      const hospitalFilter = document.getElementById("hospitalFilter");
+      hospitalSet.forEach(h => {
+        hospitalFilter.innerHTML += `<option value="${h}">${h}</option>`;
+      });
+
+      const mesFilter = document.getElementById("mesFilter");
+      mesSet.forEach(m => {
+        mesFilter.innerHTML += `<option value="${m}">${m}</option>`;
+      });
     }
 
     function statusPorNome(nome) {
@@ -79,15 +138,22 @@
     }
 
     function filtrar() {
+      mostrarSpinner();
       const nome = document.getElementById('searchName').value.trim().toUpperCase();
       const status = document.getElementById('statusFilter').value;
+      const hospital = document.getElementById('hospitalFilter').value;
+      const mes = document.getElementById('mesFilter').value;
 
       const filtrado = dados.filter(d => {
         const statusPessoa = statusPorNome(d.nome);
-        return (!nome || d.nome.includes(nome)) && (!status || statusPessoa === status);
+        return (!nome || d.nome.includes(nome)) &&
+               (!status || statusPessoa === status) &&
+               (!hospital || d.hospital === hospital) &&
+               (!mes || d.mes === mes);
       });
 
       renderizarTabela(filtrado);
+      esconderSpinner();
     }
 
     function renderizarTabela(lista) {
@@ -104,6 +170,7 @@
             <td>R$ ${d.ted.toFixed(2)}</td>
             <td>R$ ${d.inss.toFixed(2)}</td>
             <td>${status}</td>
+            <td>${d.contrato || '-'}</td>
           </tr>`;
       });
     }
@@ -116,6 +183,7 @@
     }
 
     function processar() {
+      mostrarSpinner();
       const texto = document.getElementById('inputRecebimento').value.trim();
       const linhas = texto.split('\n');
       const tbody = document.getElementById('resultBody');
@@ -137,8 +205,10 @@
             <td>R$ ${valor.toFixed(2)}</td>
             <td>R$ ${inss}</td>
             <td>SIMULADO</td>
+            <td>${pessoa?.contrato || '-'}</td>
           </tr>`;
       });
+      esconderSpinner();
     }
 
     function exportarExcel() {
