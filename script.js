@@ -1,5 +1,24 @@
 let dados = [];
 
+<div class="filtros">
+  <label for="hospitalSelect">Hospital:</label>
+  <select id="hospitalSelect">
+    <option value="Todos">Todos</option>
+  </select>
+
+  <label for="mesInicio">De:</label>
+  <select id="mesInicio">
+    <option value="">Mês Início</option>
+  </select>
+
+  <label for="mesFim">Até:</label>
+  <select id="mesFim">
+    <option value="">Mês Fim</option>
+  </select>
+
+  <input type="text" id="searchInput" placeholder="Buscar médico..." />
+</div>
+
 async function carregarDados() {
   const res = await fetch('dados.json');
   dados = await res.json();
@@ -21,19 +40,23 @@ function preencherHospitais() {
 }
 
 function preencherMeses() {
-  const meses = [...new Set(dados.map(item => item.MÊS).filter(Boolean))];
-  meses.sort((a, b) => new Date('01/' + a) - new Date('01/' + b)); // ordena cronologicamente
+  const mesesValidos = dados.map(item => item.MÊS).filter(m => /^\d{2}\/\d{4}$/.test(m));
+  const meses = [...new Set(mesesValidos)];
+  meses.sort((a, b) => {
+    const [m1, y1] = a.split('/').map(Number);
+    const [m2, y2] = b.split('/').map(Number);
+    return y1 !== y2 ? y1 - y2 : m1 - m2;
+  });
 
   const inicio = document.getElementById('mesInicio');
   const fim = document.getElementById('mesFim');
 
   meses.forEach(m => {
-    const opt1 = new Option(m, m);
-    const opt2 = new Option(m, m);
-    inicio.appendChild(opt1);
-    fim.appendChild(opt2);
+    inicio.appendChild(new Option(m, m));
+    fim.appendChild(new Option(m, m));
   });
 }
+
 
 function aplicarFiltros() {
   const hospital = document.getElementById('hospitalSelect').value;
@@ -63,10 +86,12 @@ function aplicarFiltros() {
 }
 
 function compararMeses(m1, m2) {
+  if (!/^\d{2}\/\d{4}$/.test(m1) || !/^\d{2}\/\d{4}$/.test(m2)) return 0;
   const [mes1, ano1] = m1.split('/').map(Number);
   const [mes2, ano2] = m2.split('/').map(Number);
   return (ano1 - ano2) || (mes1 - mes2);
 }
+
 
 function renderizar(lista) {
   const div = document.getElementById('resultado');
