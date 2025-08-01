@@ -1,24 +1,5 @@
 let dados = [];
 
-<div class="filtros">
-  <label for="hospitalSelect">Hospital:</label>
-  <select id="hospitalSelect">
-    <option value="Todos">Todos</option>
-  </select>
-
-  <label for="mesInicio">De:</label>
-  <select id="mesInicio">
-    <option value="">Mês Início</option>
-  </select>
-
-  <label for="mesFim">Até:</label>
-  <select id="mesFim">
-    <option value="">Mês Fim</option>
-  </select>
-
-  <input type="text" id="searchInput" placeholder="Buscar médico..." />
-</div>
-
 async function carregarDados() {
   const res = await fetch('dados.json');
   dados = await res.json();
