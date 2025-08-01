@@ -1,0 +1,8354 @@
+[
+  {
+    "nome": "NAN",
+    "crm": "nan",
+    "hospital": "nan",
+    "mes": "JAN/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "NAN",
+    "crm": "nan",
+    "hospital": "nan",
+    "mes": "FEV/25",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "NAN",
+    "crm": "nan",
+    "hospital": "nan",
+    "mes": "FEV/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "NAN",
+    "crm": "nan",
+    "hospital": "nan",
+    "mes": "MAR/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "NAN",
+    "crm": "nan",
+    "hospital": "nan",
+    "mes": "MAI/25",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MANOEL RIBEIRO DIAS",
+    "crm": "50210.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 11071.666074,
+    "inss": 0.0
+  },
+  {
+    "nome": "MANOEL RIBEIRO DIAS",
+    "crm": "50210.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 8961.943932333332,
+    "inss": 0.0
+  },
+  {
+    "nome": "MANOEL RIBEIRO DIAS",
+    "crm": "50210.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 8046.110651333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "ARLINDO SANCHEZ JUNIOR",
+    "crm": "59963.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 6000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FATIMA ROSA DOS SANTOS",
+    "crm": "71662.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2899.9999999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "FATIMA ROSA DOS SANTOS",
+    "crm": "71662.0",
+    "hospital": "HU",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FATIMA ROSA DOS SANTOS",
+    "crm": "71662.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR HUGO CAMARGO MENESES",
+    "crm": "75139.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 48194.419998082,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR HUGO CAMARGO MENESES",
+    "crm": "75139.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 33175.27777643633,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR HUGO CAMARGO MENESES",
+    "crm": "75139.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 12000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR HUGO CAMARGO MENESES",
+    "crm": "75139.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 12000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR HUGO CAMARGO MENESES",
+    "crm": "75139.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 6999.999599999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALBERTO TAKUO IWASA",
+    "crm": "76279.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 14149.999944,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALBERTO TAKUO IWASA",
+    "crm": "76279.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 12399.99936,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANILO PEREIRA LIMA SANTOS",
+    "crm": "80996.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 7500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELLO NUNES ALVES",
+    "crm": "81301.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 28500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELLO NUNES ALVES",
+    "crm": "81301.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 18000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOSIAS CAETANO DOS SANTOS",
+    "crm": "82115.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2799.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "EDGAR ALOMIA ARCE",
+    "crm": "83533.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 27000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "EDGAR ALOMIA ARCE",
+    "crm": "83533.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 27000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "DELCIO TORRES AMORIM JUNIOR",
+    "crm": "85229.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "DELCIO TORRES AMORIM JUNIOR",
+    "crm": "85229.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "ADRIANO PEREIRA SAMPAIO",
+    "crm": "85709.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO RENATO BATISTA RIBEIRO",
+    "crm": "87021.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 11900.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ADRIANA ELIZA BRASIL MOREIRA",
+    "crm": "87876.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 2949.99999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ADRIANA ELIZA BRASIL MOREIRA",
+    "crm": "87876.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDREA RIBEIRO ALEIXO",
+    "crm": "88729.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDREA RIBEIRO ALEIXO",
+    "crm": "88729.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 11199.9972,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDREA RIBEIRO ALEIXO",
+    "crm": "88729.0",
+    "hospital": "HGP",
+    "mes": "JAN/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS HENRIQUE FERNANDES",
+    "crm": "89757.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 6000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS HENRIQUE FERNANDES",
+    "crm": "89757.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "DOMINGOS SAVIO GOMES FERREIRA FILHO",
+    "crm": "90203.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 9000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO VICTOR LUCAS DE ALMEIDA RAMIRO",
+    "crm": "91555.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO VICTOR LUCAS DE ALMEIDA RAMIRO",
+    "crm": "91555.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "AGNELO DA ROCHA NETO",
+    "crm": "94436.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 17599.9956,
+    "inss": 0.0
+  },
+  {
+    "nome": "AGNELO DA ROCHA NETO",
+    "crm": "94436.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARILIA APARECIDA MARTELLI SCANNAPIECO POSSATI",
+    "crm": "95904.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 9000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARILIA APARECIDA MARTELLI SCANNAPIECO POSSATI",
+    "crm": "95904.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 15000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JULIANA PAULA GEISSLER",
+    "crm": "101091.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 18739.57,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALAN PIRES",
+    "crm": "101999.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 4329.420000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALAN PIRES",
+    "crm": "101999.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 5799.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALAN PIRES",
+    "crm": "101999.0",
+    "hospital": "HMB",
+    "mes": "FEV/27",
+    "ted": 5799.999998400001,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO TOLEDO MOTA",
+    "crm": "103122.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 7500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO TOLEDO MOTA",
+    "crm": "103122.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 13500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARILIA REZENDE VON SONNLEITHNER GAMA",
+    "crm": "105327.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 14635.28,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO CABRAL",
+    "crm": "108769.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 37345.85,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO CABRAL",
+    "crm": "108769.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 30183.1065,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO CABRAL",
+    "crm": "108769.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 15099.9964,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO CABRAL",
+    "crm": "108769.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 7529.418000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDREAS JOHANN MOLNAR KOSZKA",
+    "crm": "108840.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 16899.69777698233,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUILHERME SELLA DO VAL",
+    "crm": "108947.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARLON MARCELO GALDINO FERREIRA",
+    "crm": "111990.0",
+    "hospital": "AME CARAPICUIBA",
+    "mes": "MAR/27",
+    "ted": 14312.38,
+    "inss": 0.0
+  },
+  {
+    "nome": "HERMANO AUGUSTO DE MEDEIROS JUNIOR",
+    "crm": "112937.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 4349.999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "HERMANO AUGUSTO DE MEDEIROS JUNIOR",
+    "crm": "112937.0",
+    "hospital": "CEJAM",
+    "mes": "FEV/27",
+    "ted": 5799.999998400001,
+    "inss": 0.0
+  },
+  {
+    "nome": "CHARLES PARADA SALVATIERRA",
+    "crm": "114629.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 12799.9968,
+    "inss": 0.0
+  },
+  {
+    "nome": "CHARLES PARADA SALVATIERRA",
+    "crm": "114629.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 23999.994,
+    "inss": 0.0
+  },
+  {
+    "nome": "AFONSO CESAR POLIMANTI",
+    "crm": "116971.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 11200.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELO PINHEIRO JUNIOR",
+    "crm": "117189.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 214.2300000000004,
+    "inss": 0.0
+  },
+  {
+    "nome": "ELISA MARIA DE CAMARGO  ARANZANA",
+    "crm": "120919.0",
+    "hospital": "AME CARAPICUIBA",
+    "mes": "MAR/27",
+    "ted": 6183.839415833333,
+    "inss": 0.0
+  },
+  {
+    "nome": "ELISA MARIA DE CAMARGO  ARANZANA",
+    "crm": "120919.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 1937.5,
+    "inss": 0.0
+  },
+  {
+    "nome": "ELISA MARIA DE CAMARGO  ARANZANA",
+    "crm": "120919.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 12803.06666666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "ELISA MARIA DE CAMARGO  ARANZANA",
+    "crm": "120919.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 32168.84999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ELISA MARIA DE CAMARGO  ARANZANA",
+    "crm": "120919.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 14264.01800236726,
+    "inss": 0.0
+  },
+  {
+    "nome": "ELISA MARIA DE CAMARGO  ARANZANA",
+    "crm": "120919.0",
+    "hospital": "HMB",
+    "mes": "FEV/27",
+    "ted": 17072.85994829999,
+    "inss": 0.0
+  },
+  {
+    "nome": "LAÍS FERRAZ DE ASSIS PINTO",
+    "crm": "120971.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 4096.944250333332,
+    "inss": 0.0
+  },
+  {
+    "nome": "LAÍS FERRAZ DE ASSIS PINTO",
+    "crm": "120971.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 602.7777433333332,
+    "inss": 0.0
+  },
+  {
+    "nome": "LAÍS FERRAZ DE ASSIS PINTO",
+    "crm": "120971.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 2477.222080666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "CIRO FRANCO REIS",
+    "crm": "122121.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 8556.92,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE ANICETO PORTELLA",
+    "crm": "129227.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 4349.999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE ANICETO PORTELLA",
+    "crm": "129227.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 4349.9999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "GLAUCO MARIO BOLELLI",
+    "crm": "129732.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 12000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GLAUCO MARIO BOLELLI",
+    "crm": "129732.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 9000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOSÉ HERMÍNIO DONIZETE MILANI JÚNIOR",
+    "crm": "130361.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 2949.99999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRE YUNES PERIM",
+    "crm": "130493.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 5799.9999999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCIANA CRISTINA DA SILVA",
+    "crm": "130881.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCIANA CRISTINA DA SILVA",
+    "crm": "130881.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCIANA CRISTINA DA SILVA",
+    "crm": "130881.0",
+    "hospital": "TIRADENTES",
+    "mes": "MAR/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCIANA CRISTINA DA SILVA",
+    "crm": "130881.0",
+    "hospital": "Tiradentes",
+    "mes": "JAN/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCIANA CRISTINA DA SILVA",
+    "crm": "130881.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCIANA CRISTINA DA SILVA",
+    "crm": "130881.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "LETÍCIA MACEDO FILGUEIRAS",
+    "crm": "132061.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LETÍCIA MACEDO FILGUEIRAS",
+    "crm": "132061.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 8279.418,
+    "inss": 0.0
+  },
+  {
+    "nome": "LETÍCIA MACEDO FILGUEIRAS",
+    "crm": "132061.0",
+    "hospital": "CEJAM",
+    "mes": "JAN/27",
+    "ted": 1800.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LETÍCIA MACEDO FILGUEIRAS",
+    "crm": "132061.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 2000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FABRICIO NUNES ZACCA",
+    "crm": "132140.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 7095.52,
+    "inss": 0.0
+  },
+  {
+    "nome": "BEIMAR EDMUNDO ZEBALLOS SEMPÉRTEGUI",
+    "crm": "132247.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 3649.9999999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "FABRICIO OLIVEIRA RAMADA",
+    "crm": "132458.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 4500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FABRICIO OLIVEIRA RAMADA",
+    "crm": "132458.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 10500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIEL MORAES DOMINGOS",
+    "crm": "139043.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIEL MORAES DOMINGOS",
+    "crm": "139043.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 18522.85994789999,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIEL MORAES DOMINGOS",
+    "crm": "139043.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 17919.72093625576,
+    "inss": 0.0
+  },
+  {
+    "nome": "AMERICO ZOPPI NETTO",
+    "crm": "139230.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1549.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "AMERICO ZOPPI NETTO",
+    "crm": "139230.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 6199.999680000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "EDUARDO FERNANDES DA FONSECA PEREIRA",
+    "crm": "139283.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 2143.05,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOÃO GABRIEL DUARTE PAES PRADELLA",
+    "crm": "139654.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 8299.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOÃO GABRIEL DUARTE PAES PRADELLA",
+    "crm": "139654.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 32531.80030000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "THATIANA GUERRIERI",
+    "crm": "140565.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3010.155,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINA ZEN JANNES",
+    "crm": "140954.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 1625.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINA ZEN JANNES",
+    "crm": "140954.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 15999.996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS MOYSES PEDRO",
+    "crm": "141053.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 7749.999959999997,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS MOYSES PEDRO",
+    "crm": "141053.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 6199.999680000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "JAIR PEDRALLI JUNIOR",
+    "crm": "142073.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 34253.36,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROBERTO NOÉ VARGAS GIMENEZ",
+    "crm": "142100.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 4349.999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROBERTO NOÉ VARGAS GIMENEZ",
+    "crm": "142100.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 4349.9999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "DIEGO TAVARES MOREIRA",
+    "crm": "142592.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "DIEGO TAVARES MOREIRA",
+    "crm": "142592.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "DIEGO TAVARES MOREIRA",
+    "crm": "142592.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 19500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "DIEGO TAVARES MOREIRA",
+    "crm": "142592.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 24000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALETHEA GENOVESI",
+    "crm": "144857.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 4500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALETHEA GENOVESI",
+    "crm": "144857.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS FLEIRIA PIMENTA",
+    "crm": "145182.0",
+    "hospital": "TIRADENTES",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS FLEIRIA PIMENTA",
+    "crm": "145182.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS FLEIRIA PIMENTA",
+    "crm": "145182.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIELA RIBEIRO RICCIARDI ASSUMPÇÃO",
+    "crm": "145531.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2899.9999999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "RENATO BORNACINA COBRA",
+    "crm": "146101.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 3099.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "VITOR TRAZZI DE ARRUDA MENDES",
+    "crm": "146462.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 7749.999959999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "VITOR TRAZZI DE ARRUDA MENDES",
+    "crm": "146462.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 10424.99972,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE SGARBI BORALLI",
+    "crm": "149729.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 19199.9952,
+    "inss": 0.0
+  },
+  {
+    "nome": "BEATRIZ DURANTE PASIN",
+    "crm": "150100.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3231.760000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO AGUIAR SARMENTO",
+    "crm": "150242.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO AGUIAR SARMENTO",
+    "crm": "150242.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 7529.418000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO AGUIAR SARMENTO",
+    "crm": "150242.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 36799.9908,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO AGUIAR SARMENTO",
+    "crm": "150242.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 38399.9904,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARLON AUGUSTO SCHIOCCHET MONARIM",
+    "crm": "150507.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 2165.21,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARLON AUGUSTO SCHIOCCHET MONARIM",
+    "crm": "150507.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 6594.42,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARLON AUGUSTO SCHIOCCHET MONARIM",
+    "crm": "150507.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 11775.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS MEGA DE ANDRADE",
+    "crm": "151270.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 10112.12833333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCIANA SABOYA BRITO DAL COL",
+    "crm": "151560.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 9295.42,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALAN YOSHIHIRO TAKAMIYA",
+    "crm": "151623.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 21267.24110999933,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARISSA IZUMI FUJII",
+    "crm": "151910.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3158.601,
+    "inss": 0.0
+  },
+  {
+    "nome": "JUDITH CARVALHO FERNANDES",
+    "crm": "152783.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 6959.166268999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "JUDITH CARVALHO FERNANDES",
+    "crm": "152783.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 5535.833017,
+    "inss": 0.0
+  },
+  {
+    "nome": "ESTRELLA BIANCA DE MELO",
+    "crm": "153165.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "NAAS ADONAIS CARVALHO DE ASSIS",
+    "crm": "153669.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 5905.277480333332,
+    "inss": 0.0
+  },
+  {
+    "nome": "NAAS ADONAIS CARVALHO DE ASSIS",
+    "crm": "153669.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2687.222068666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZ FELIPE MUNHOZ PICHE",
+    "crm": "153774.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 17716.22,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS LOPES SANSONI",
+    "crm": "154881.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 6488.610740333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS LOPES SANSONI",
+    "crm": "154881.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2140.833211,
+    "inss": 0.0
+  },
+  {
+    "nome": "THALES THIAGO FERREIRA GODOI",
+    "crm": "157162.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 6199.999968,
+    "inss": 0.0
+  },
+  {
+    "nome": "THALES THIAGO FERREIRA GODOI",
+    "crm": "157162.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 11199.99968,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIEL MARCUS SAN DA SILVA",
+    "crm": "157474.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 2542.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIEL MARCUS SAN DA SILVA",
+    "crm": "157474.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 12477.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCOS HENRIQUE COELHO SANDES",
+    "crm": "157811.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 1460.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FERNANDO BORGES TEIXEIRA",
+    "crm": "158440.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 3199.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROGERIO RAFAEL DA SILVA MENDES",
+    "crm": "159180.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 402.78875,
+    "inss": 0.0
+  },
+  {
+    "nome": "WILLIAM GUIDINI LIMA",
+    "crm": "160514.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 2649.375,
+    "inss": 0.0
+  },
+  {
+    "nome": "WILLIAM GUIDINI LIMA",
+    "crm": "160514.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 27358.8200000428,
+    "inss": 0.0
+  },
+  {
+    "nome": "WILLIAM GUIDINI LIMA",
+    "crm": "160514.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "WILLIAM GUIDINI LIMA",
+    "crm": "160514.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "SAYONE ANDRADE DE MOURA",
+    "crm": "160725.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3343.395,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO GONCALVES DE OLIVEIRA",
+    "crm": "160742.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 3840.277558333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO GONCALVES DE OLIVEIRA",
+    "crm": "160742.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 5955.832992999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO GONCALVES DE OLIVEIRA",
+    "crm": "160742.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 4931.110829333332,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAÊ OLIVEIRA DIAS MARTINS",
+    "crm": "161856.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 6400.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAÊ OLIVEIRA DIAS MARTINS",
+    "crm": "161856.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 10729.4172,
+    "inss": 0.0
+  },
+  {
+    "nome": "LIVIA BAPTISTA D'OLIVEIRA",
+    "crm": "162052.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 2424.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROBERTA MARCHI DE SOUSA",
+    "crm": "162871.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 6417.648,
+    "inss": 0.0
+  },
+  {
+    "nome": "LAISE TEIXEIRA CAVALHIERI VENTURA",
+    "crm": "162994.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 273.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MAX VINICIUS FERREIRA MATOS",
+    "crm": "163032.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 2625.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MAX VINICIUS FERREIRA MATOS",
+    "crm": "163032.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 15999.795,
+    "inss": 0.0
+  },
+  {
+    "nome": "LÍVIA PETRONE CARDOSO",
+    "crm": "163686.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 25312.5,
+    "inss": 0.0
+  },
+  {
+    "nome": "LÍVIA PETRONE CARDOSO",
+    "crm": "163686.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 10175.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LÍVIA PETRONE CARDOSO",
+    "crm": "163686.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 19522.70998400016,
+    "inss": 0.0
+  },
+  {
+    "nome": "LÍVIA PETRONE CARDOSO",
+    "crm": "163686.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 13299.999976,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO VITOR BARRETO GUIMARAES",
+    "crm": "164303.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 6142.599972,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALEXANDRE SIMOES NERI LEAL",
+    "crm": "164818.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 7293.070000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "AURÉLIO LAZZARONI SPÓSITO",
+    "crm": "165134.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 7749.999959999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "AURÉLIO LAZZARONI SPÓSITO",
+    "crm": "165134.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 6199.999680000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO FIGUEIREDO COSTA",
+    "crm": "166771.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 7999.998000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO FIGUEIREDO COSTA",
+    "crm": "166771.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 12799.9968,
+    "inss": 0.0
+  },
+  {
+    "nome": "PATRICIA PEÑA VALDA",
+    "crm": "166821.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 2418.585,
+    "inss": 0.0
+  },
+  {
+    "nome": "FERNANDA BATISTINI YAMADA",
+    "crm": "168140.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 950.000000004,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZ FELIPE VIANA VERAS GOULART",
+    "crm": "168453.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 14912.2800000256,
+    "inss": 0.0
+  },
+  {
+    "nome": "RENAN MACHADO BIANCHI",
+    "crm": "168520.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 10149.9999999972,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS BIGNATTO CARVALHO",
+    "crm": "169001.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 29492.4875,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAEL RODRIGUES LOURENCINI",
+    "crm": "169785.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1277.499926999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINA NOGUEIRA FERRAZ TREMONTE",
+    "crm": "170225.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 5416.92,
+    "inss": 0.0
+  },
+  {
+    "nome": "JUAN CARLOS VASQUEZ RIOS",
+    "crm": "170311.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1600.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO HENRIQUE BALESTRIM SALVADOR",
+    "crm": "170412.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO HENRIQUE BALESTRIM SALVADOR",
+    "crm": "170412.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUILHERME AUGUSTO PEREIRA PASSOS",
+    "crm": "170700.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 12399.999936,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUILHERME AUGUSTO PEREIRA PASSOS",
+    "crm": "170700.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 21283.33232,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNELLA SILVA CERQUEIRA",
+    "crm": "171138.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1353.333256,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNELLA SILVA CERQUEIRA",
+    "crm": "171138.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1287.222148666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE MAIA VIEIRA",
+    "crm": "172305.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 26833.8200000422,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE MAIA VIEIRA",
+    "crm": "172305.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE MAIA VIEIRA",
+    "crm": "172305.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "PLÍNIO AUGUSTO MOREIRA FONSECA",
+    "crm": "173544.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 7249.99998,
+    "inss": 0.0
+  },
+  {
+    "nome": "PLÍNIO AUGUSTO MOREIRA FONSECA",
+    "crm": "173544.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 5799.999998400001,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO ANTONIO TIRADENTES DA SILVA",
+    "crm": "173642.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 23999.994,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO ANTONIO TIRADENTES DA SILVA",
+    "crm": "173642.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 22399.9944,
+    "inss": 0.0
+  },
+  {
+    "nome": "AMANDA ALESSI FERNANDES DE MELO",
+    "crm": "174782.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 10168.03111064033,
+    "inss": 0.0
+  },
+  {
+    "nome": "ARTHUR PEREZ FERREIRA NETO",
+    "crm": "174934.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 3099.999983999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "ARTHUR PEREZ FERREIRA NETO",
+    "crm": "174934.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 7749.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAIO BARBOSA CURY",
+    "crm": "174950.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 2764.77,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAMILA ALOISE CRUZ",
+    "crm": "174953.0",
+    "hospital": "HGP",
+    "mes": "JAN/27",
+    "ted": 4800.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAMILA ALOISE CRUZ",
+    "crm": "174953.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 1600.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "PRISCILLA DE CAMPOS TOLEDO",
+    "crm": "175110.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 2275.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "PRISCILLA DE CAMPOS TOLEDO",
+    "crm": "175110.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 7437.499999999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "PRISCILLA DE CAMPOS TOLEDO",
+    "crm": "175110.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 4799.99999200008,
+    "inss": 0.0
+  },
+  {
+    "nome": "PRISCILLA DE CAMPOS TOLEDO",
+    "crm": "175110.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 7199.999964000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRESSA MACEDO PAIVA RODRIGUES",
+    "crm": "175410.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1177.5,
+    "inss": 0.0
+  },
+  {
+    "nome": "NATHALIA FERRAZ OLIVEIRA",
+    "crm": "176045.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2799.999839999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "NATHALIA FERRAZ OLIVEIRA",
+    "crm": "176045.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "NATHALIA FERRAZ OLIVEIRA",
+    "crm": "176045.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 2799.999839999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "THAIS GUERRA NOGUEIRA",
+    "crm": "176127.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3338.082,
+    "inss": 0.0
+  },
+  {
+    "nome": "DOUGLAS STERZZA DIAS",
+    "crm": "176627.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 11999.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "DOUGLAS STERZZA DIAS",
+    "crm": "176627.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 17600.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "DOUGLAS STERZZA DIAS",
+    "crm": "176627.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 29786.512,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL DE SOUZA BRUM MARQUES DE ALMEIDA",
+    "crm": "176644.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 6296.830666666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARIANA RAFFO PEREDA",
+    "crm": "176677.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3614.16825,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARIANA RAFFO PEREDA",
+    "crm": "176677.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 3788.35875,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO MARCOS DE CASTRO POSSATO LEAO",
+    "crm": "176939.0",
+    "hospital": "CEJAM",
+    "mes": "JAN/27",
+    "ted": 4500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO MARCOS DE CASTRO POSSATO LEAO",
+    "crm": "176939.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 5250.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "PEDRO PROSPERI DESENZI CIARALO",
+    "crm": "178000.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 13908.28,
+    "inss": 0.0
+  },
+  {
+    "nome": "THALES FELIPE DOS SANTOS PEREIRA",
+    "crm": "179563.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 10149.9999972,
+    "inss": 0.0
+  },
+  {
+    "nome": "THALES FELIPE DOS SANTOS PEREIRA",
+    "crm": "179563.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1449.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "THALES FELIPE DOS SANTOS PEREIRA",
+    "crm": "179563.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 28943.05398166666,
+    "inss": 0.0
+  },
+  {
+    "nome": "THALES FELIPE DOS SANTOS PEREIRA",
+    "crm": "179563.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 35139.34433966668,
+    "inss": 0.0
+  },
+  {
+    "nome": "THALES FELIPE DOS SANTOS PEREIRA",
+    "crm": "179563.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 35570.47848586112,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCUS DE PAULA DIAS DA COSTA",
+    "crm": "180014.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2232.222094666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCUS DE PAULA DIAS DA COSTA",
+    "crm": "180014.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 983.8888326666664,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCUS DE PAULA DIAS DA COSTA",
+    "crm": "180014.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 2799.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "CRYSTHYAN MAGNO DE JESUS SIQUEIRA",
+    "crm": "180059.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "CRYSTHYAN MAGNO DE JESUS SIQUEIRA",
+    "crm": "180059.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "CRYSTHYAN MAGNO DE JESUS SIQUEIRA",
+    "crm": "180059.0",
+    "hospital": "PEDREIRA",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "CRYSTHYAN MAGNO DE JESUS SIQUEIRA",
+    "crm": "180059.0",
+    "hospital": "PEDREIRA",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOSÉ FERNANDO FLORES CUNZA",
+    "crm": "180897.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 3099.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOSÉ FERNANDO FLORES CUNZA",
+    "crm": "180897.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 3099.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ERIC SHIGUEO BONINSENHA KUNIZAKI",
+    "crm": "181264.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 29438.65597933333,
+    "inss": 0.0
+  },
+  {
+    "nome": "ERIC SHIGUEO BONINSENHA KUNIZAKI",
+    "crm": "181264.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 20234.94681733334,
+    "inss": 0.0
+  },
+  {
+    "nome": "ERIC SHIGUEO BONINSENHA KUNIZAKI",
+    "crm": "181264.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 9711.0815895278,
+    "inss": 0.0
+  },
+  {
+    "nome": "STEFANY SCARLETH ZAPATA GUTIERREZ",
+    "crm": "182040.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "DIEGO CARLOS HERIBERTO ZARDAN PACHECO",
+    "crm": "182167.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "DIEGO CARLOS HERIBERTO ZARDAN PACHECO",
+    "crm": "182167.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 7529.418000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAMILA DE PINA RODRIGUES",
+    "crm": "182612.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 9000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAMILA DE PINA RODRIGUES",
+    "crm": "182612.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 8000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO MARCEL SANSEVERINO SILVA",
+    "crm": "182634.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO MARCEL SANSEVERINO SILVA",
+    "crm": "182634.0",
+    "hospital": "HUSBC",
+    "mes": "MAR/27",
+    "ted": 4874.9999999994,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO MARCEL SANSEVERINO SILVA",
+    "crm": "182634.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 22199.9982,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO MARCEL SANSEVERINO SILVA",
+    "crm": "182634.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 10500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO MARCEL SANSEVERINO SILVA",
+    "crm": "182634.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 15750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO MARCEL SANSEVERINO SILVA",
+    "crm": "182634.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO MARCEL SANSEVERINO SILVA",
+    "crm": "182634.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "THIAGO IANNER SILVA",
+    "crm": "182909.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 40717.49696400001,
+    "inss": 0.0
+  },
+  {
+    "nome": "THIAGO IANNER SILVA",
+    "crm": "182909.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 35743.79193280001,
+    "inss": 0.0
+  },
+  {
+    "nome": "THIAGO IANNER SILVA",
+    "crm": "182909.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 26323.38188851153,
+    "inss": 0.0
+  },
+  {
+    "nome": "THIAGO IANNER SILVA",
+    "crm": "182909.0",
+    "hospital": "HMB",
+    "mes": "FEV/27",
+    "ted": 24354.21989839998,
+    "inss": 0.0
+  },
+  {
+    "nome": "THIAGO IANNER SILVA",
+    "crm": "182909.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 9097.661013000004,
+    "inss": 0.0
+  },
+  {
+    "nome": "THIAGO IANNER SILVA",
+    "crm": "182909.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 5952.431946475018,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIELA BORGES LEAL",
+    "crm": "183529.0",
+    "hospital": "CEJAM",
+    "mes": "JAN/27",
+    "ted": 4500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "HENRIQUE SIMONSEN LUNARDELLI",
+    "crm": "183591.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 2000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE LANDGRAF",
+    "crm": "183911.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 7596.3999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LIVIA YADOYA VASCONCELOS",
+    "crm": "184904.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1272.10525,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISAAC MASSAUD AMIM AMARAL",
+    "crm": "185698.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "JUAN DENNIS APAZA GUTIERREZ",
+    "crm": "186302.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOISE MAREM OCHOA ORELLANA",
+    "crm": "188081.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOISE MAREM OCHOA ORELLANA",
+    "crm": "188081.0",
+    "hospital": "HUSBC",
+    "mes": "MAR/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOISE MAREM OCHOA ORELLANA",
+    "crm": "188081.0",
+    "hospital": "HU",
+    "mes": "JAN/27",
+    "ted": 2250.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOISE MAREM OCHOA ORELLANA",
+    "crm": "188081.0",
+    "hospital": "HU",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JESSICA FUNCHAL DO AMARAL",
+    "crm": "188834.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 7200.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FLORENCE HELENA VALLIN TIBURZIO MEGALE",
+    "crm": "190096.0",
+    "hospital": "PEDREIRA",
+    "mes": "JAN/27",
+    "ted": 9000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FLORENCE HELENA VALLIN TIBURZIO MEGALE",
+    "crm": "190096.0",
+    "hospital": "PEDREIRA",
+    "mes": "MAR/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FLORENCE HELENA VALLIN TIBURZIO MEGALE",
+    "crm": "190096.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 5965.555254666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "FLORENCE HELENA VALLIN TIBURZIO MEGALE",
+    "crm": "190096.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 9020.277262333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "FLORENCE HELENA VALLIN TIBURZIO MEGALE",
+    "crm": "190096.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 5743.888560666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "FILIPE ANTONIO PEIXOTO MOURAO",
+    "crm": "190158.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 3125.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FILIPE ANTONIO PEIXOTO MOURAO",
+    "crm": "190158.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 9599.999904000118,
+    "inss": 0.0
+  },
+  {
+    "nome": "FILIPE ANTONIO PEIXOTO MOURAO",
+    "crm": "190158.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 14399.999928,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARYSSA MARZABAL GUIMARAES QUEDINHO PEREIRA",
+    "crm": "190656.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 1734.99999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL JOSÉ DOS SANTOS MORALES",
+    "crm": "191107.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 3099.999983999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL JOSÉ DOS SANTOS MORALES",
+    "crm": "191107.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 3099.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARINA STROHER",
+    "crm": "191288.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARINA STROHER",
+    "crm": "191288.0",
+    "hospital": "HUSBC",
+    "mes": "MAR/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALEXANDRE AUGUSTO QUEIROZ MAUAD",
+    "crm": "191999.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 3099.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALEXANDRE AUGUSTO QUEIROZ MAUAD",
+    "crm": "191999.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 3099.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "FERNANDA DE MIRA CABELLO BATISTA DE OLIVEIRA",
+    "crm": "192127.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULA GARBIN",
+    "crm": "192381.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 11599.999968,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULA GARBIN",
+    "crm": "192381.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 5799.999998400001,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIEL ALEXANDRE PEREIRA CONSONI",
+    "crm": "192598.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1549.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "THIAGO CAVALCANTE RIBAS PEREIRA",
+    "crm": "192828.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 33655.97111032234,
+    "inss": 0.0
+  },
+  {
+    "nome": "THIAGO CAVALCANTE RIBAS PEREIRA",
+    "crm": "192828.0",
+    "hospital": "HMB",
+    "mes": "FEV/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO PEIXOTO VARGAS",
+    "crm": "193043.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 4649.999968,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO PEIXOTO VARGAS",
+    "crm": "193043.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 11199.99968,
+    "inss": 0.0
+  },
+  {
+    "nome": "SERGIO OTAVIO FONSECA SILVA",
+    "crm": "193045.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 7049.9999999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "SERGIO OTAVIO FONSECA SILVA",
+    "crm": "193045.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "SERGIO OTAVIO FONSECA SILVA",
+    "crm": "193045.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 5129.418600000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "SERGIO OTAVIO FONSECA SILVA",
+    "crm": "193045.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 11899.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "SERGIO OTAVIO FONSECA SILVA",
+    "crm": "193045.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 7199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARA LOPES FIORATTI",
+    "crm": "193139.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 7149.9999999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS AARON SILVERIO GUTIERREZ",
+    "crm": "193265.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 4274.9999999994,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS AARON SILVERIO GUTIERREZ",
+    "crm": "193265.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS AARON SILVERIO GUTIERREZ",
+    "crm": "193265.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 5129.418600000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS AARON SILVERIO GUTIERREZ",
+    "crm": "193265.0",
+    "hospital": "TIRADENTES",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS AARON SILVERIO GUTIERREZ",
+    "crm": "193265.0",
+    "hospital": "TIRADENTES",
+    "mes": "MAR/27",
+    "ted": 750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS AARON SILVERIO GUTIERREZ",
+    "crm": "193265.0",
+    "hospital": "Tiradentes",
+    "mes": "JAN/27",
+    "ted": 1250.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS AARON SILVERIO GUTIERREZ",
+    "crm": "193265.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 1250.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS AARON SILVERIO GUTIERREZ",
+    "crm": "193265.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 4000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS ALVES NEMER",
+    "crm": "193641.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 3300.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "EDUARDO CESAR KING SANTOS CRUZ",
+    "crm": "193984.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "EDUARDO CESAR KING SANTOS CRUZ",
+    "crm": "193984.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 19199.9952,
+    "inss": 0.0
+  },
+  {
+    "nome": "MELISSA MELLO MAZEPA",
+    "crm": "194480.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 4063.62498879,
+    "inss": 0.0
+  },
+  {
+    "nome": "MELISSA MELLO MAZEPA",
+    "crm": "194480.0",
+    "hospital": "HMB",
+    "mes": "FEV/27",
+    "ted": 5799.999998400001,
+    "inss": 0.0
+  },
+  {
+    "nome": "ARTHUR SOARES FREITAS E SILVA",
+    "crm": "194571.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 5799.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ARTHUR SOARES FREITAS E SILVA",
+    "crm": "194571.0",
+    "hospital": "HGP",
+    "mes": "FEV/27",
+    "ted": 7249.999998000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCO ANTONIO FACCIO",
+    "crm": "194807.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 1635.730666666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUSTAVO HENRIQUE DA COSTA CARNEIRO",
+    "crm": "195517.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 5787.04,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARILIA LOUREIRO GOIS CAVALCANTE",
+    "crm": "196090.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 1575.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRE GIL",
+    "crm": "197216.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 12087.65375,
+    "inss": 0.0
+  },
+  {
+    "nome": "WELLINGTON RODRIGUES RIGON",
+    "crm": "197548.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 4349.999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "WELLINGTON RODRIGUES RIGON",
+    "crm": "197548.0",
+    "hospital": "HGP",
+    "mes": "FEV/27",
+    "ted": 7249.999998000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "FERNANDO MAYO SOARES",
+    "crm": "198664.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2899.9999999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "JESSICA LOCASPI",
+    "crm": "198690.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2700.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAUE FEDRIGO LOYOLA BATISTA",
+    "crm": "198830.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 8599.999999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUKAS BRESEGHELLO CAVENAGHI",
+    "crm": "199180.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAPHAEL MENEZES VIANNA",
+    "crm": "199232.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 5799.999916000079,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAPHAEL MENEZES VIANNA",
+    "crm": "199232.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 5799.999972000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "RICARDO WAKSMAN",
+    "crm": "199687.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 12180.432,
+    "inss": 0.0
+  },
+  {
+    "nome": "STEPHANI MARTINS DE OLIVEIRA",
+    "crm": "199705.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 1800.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS CARDOSO DE FARIAS",
+    "crm": "199726.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1749.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS CARDOSO DE FARIAS",
+    "crm": "199726.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 3499.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO CASTANHEIRA BARROS DA SILVA",
+    "crm": "199853.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 12249.999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS MOYSES PEDRO",
+    "crm": "200064.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 4649.999976,
+    "inss": 0.0
+  },
+  {
+    "nome": "NATALIA CESTARI PEGAS",
+    "crm": "200095.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 1054.166666666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "NATALIA CESTARI PEGAS",
+    "crm": "200095.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 4212.499999999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "NATALIA CESTARI PEGAS",
+    "crm": "200095.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 2877.083333333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAEL GUSTAVO DOMINGOS DE MAGALHAES",
+    "crm": "200111.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAEL GUSTAVO DOMINGOS DE MAGALHAES",
+    "crm": "200111.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 7999.998000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "BIANCA SOLER MONTAGNER",
+    "crm": "200329.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 5287.293333333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "BIANCA SOLER MONTAGNER",
+    "crm": "200329.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 6014.297647499997,
+    "inss": 0.0
+  },
+  {
+    "nome": "BIANCA SOLER MONTAGNER",
+    "crm": "200329.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1484.999235833334,
+    "inss": 0.0
+  },
+  {
+    "nome": "HELOISA SOARES VENDRAMETO",
+    "crm": "200367.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 4490.81325,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELO KATSUJI NAGAO",
+    "crm": "200407.0",
+    "hospital": "PEDREIRA",
+    "mes": "JAN/27",
+    "ted": 5200.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELO KATSUJI NAGAO",
+    "crm": "200407.0",
+    "hospital": "PEDREIRA",
+    "mes": "MAR/27",
+    "ted": 8800.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELO KATSUJI NAGAO",
+    "crm": "200407.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 7320.833333333332,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELO KATSUJI NAGAO",
+    "crm": "200407.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2577.083333333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELO KATSUJI NAGAO",
+    "crm": "200407.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 802.0833333333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "SARAH MOREIRA SANTOS",
+    "crm": "200802.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3359.166666509,
+    "inss": 0.0
+  },
+  {
+    "nome": "JANAÍNA QUAGLIARELI RAMOS DA SILVA",
+    "crm": "201048.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1449.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JANAÍNA QUAGLIARELI RAMOS DA SILVA",
+    "crm": "201048.0",
+    "hospital": "NAO IDENTIFICADO",
+    "mes": "JAN/27",
+    "ted": 4349.9999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "JANAÍNA QUAGLIARELI RAMOS DA SILVA",
+    "crm": "201048.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 1345.555478666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELLA ADORNO CHIAVEGATTO",
+    "crm": "201084.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 5125.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELLA ADORNO CHIAVEGATTO",
+    "crm": "201084.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 6921.867999999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELLA ADORNO CHIAVEGATTO",
+    "crm": "201084.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3200.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELLA ADORNO CHIAVEGATTO",
+    "crm": "201084.0",
+    "hospital": "TIRADENTES",
+    "mes": "MAR/27",
+    "ted": 9250.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE DE BULHOES OJEDA",
+    "crm": "202291.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 4649.99999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "WELLINGTON FORTE ALVES JUNIOR",
+    "crm": "202341.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 3350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "WELLINGTON FORTE ALVES JUNIOR",
+    "crm": "202341.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 31750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNO LEÃO CAMINHA",
+    "crm": "202467.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 4799.999992000079,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNO LEÃO CAMINHA",
+    "crm": "202467.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 5799.999972,
+    "inss": 0.0
+  },
+  {
+    "nome": "AMANDA SAMPAIO ALMEIDA",
+    "crm": "202778.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 2030.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS SCARANELLO",
+    "crm": "202880.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 950.000000004,
+    "inss": 0.0
+  },
+  {
+    "nome": "MAYARA GALISSE NEGRÃO",
+    "crm": "202903.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 4349.999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "MAYARA GALISSE NEGRÃO",
+    "crm": "202903.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNO FILIPE VIOTTO PETTA",
+    "crm": "202971.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 4305.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABELLA MORAES COSTA",
+    "crm": "203196.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 2095.95,
+    "inss": 0.0
+  },
+  {
+    "nome": "NICOLAS MEDEIROS DORNELAS",
+    "crm": "203300.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAEL JOSE OLIVEIRA BARREIRA DE ALENCAR",
+    "crm": "203316.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 6199.999968,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS COSTA DE SANTANA",
+    "crm": "203662.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2199.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCO TULIO RAMALHO ZORATTI",
+    "crm": "203683.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 1750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GRAZIELLY COSER DE ASSIS",
+    "crm": "203959.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 4799.999992000079,
+    "inss": 0.0
+  },
+  {
+    "nome": "GRAZIELLY COSER DE ASSIS",
+    "crm": "203959.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 4799.999976000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO NOBREGA BANDEIRA",
+    "crm": "204932.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3168.066,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALINE LOBATO DE SOUSA",
+    "crm": "204999.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 785.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "EDUARDA SA TABOSA",
+    "crm": "205304.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 3675.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "TANIA MARCELA SANDOVAL ICHINOSE",
+    "crm": "205492.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 2399.99999600004,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINA SOUZA GASPARETTI",
+    "crm": "205819.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 6549.9999999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRESSA KOVACS MENDONÇA",
+    "crm": "206226.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 6125.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRESSA KOVACS MENDONÇA",
+    "crm": "206226.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 15499.508,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRESSA KOVACS MENDONÇA",
+    "crm": "206226.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAMON LASMAR RAMALHO",
+    "crm": "206350.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 1401.426666666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROBERTO CARLOS RIOS CORREA",
+    "crm": "207119.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 18386.18055513167,
+    "inss": 0.0
+  },
+  {
+    "nome": "TARSILA GOMES CALDAS",
+    "crm": "207348.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3549.99999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "FLAVIO ROBERTO DA SILVA",
+    "crm": "207447.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO CALANDRINI DE AZEVEDO",
+    "crm": "207735.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 4596.666404,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIELA FONSECA LOPES",
+    "crm": "207887.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 15954.999999294,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS FERNANDO SANSUSTE VIDAL",
+    "crm": "208101.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 2000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS FERNANDO SANSUSTE VIDAL",
+    "crm": "208101.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 9124.692500000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS FERNANDO SANSUSTE VIDAL",
+    "crm": "208101.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS FERNANDO SANSUSTE VIDAL",
+    "crm": "208101.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 9000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO HENRIQUE DIAS FERNANDES",
+    "crm": "208237.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3200.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "THAYNA MIRELI DE PAULA MOLINA",
+    "crm": "208303.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2700.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "TINA MARCELLO",
+    "crm": "208414.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 9000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FABIO MINARI CAMPOS",
+    "crm": "208580.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1549.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "FABIO MINARI CAMPOS",
+    "crm": "208580.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1549.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS PORTO MAURITY DIAS",
+    "crm": "208815.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 12400.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS PORTO MAURITY DIAS",
+    "crm": "208815.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 8800.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "PEDRO SIRE SALGADO",
+    "crm": "208958.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 6199.999968,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARIA EDUARDA PENACHIO SARMENTO",
+    "crm": "209390.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3873.16999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARIA EDUARDA PENACHIO SARMENTO",
+    "crm": "209390.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 1959.1041666215,
+    "inss": 0.0
+  },
+  {
+    "nome": "VALDETE ROMEIRO DE ARAUJO CAMPOS",
+    "crm": "209515.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "YAHSMIM DE LIMA",
+    "crm": "209532.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 9632.777227333332,
+    "inss": 0.0
+  },
+  {
+    "nome": "YAHSMIM DE LIMA",
+    "crm": "209532.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 13999.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "YAHSMIM DE LIMA",
+    "crm": "209532.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 2799.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "LETICIA ELIZA FLORES COPETTI",
+    "crm": "209986.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDREIA YUMI JOUTI MOTOMURA",
+    "crm": "210020.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "RICARDO PURCHIO GALLETTI",
+    "crm": "210301.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 2899.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "RICARDO PURCHIO GALLETTI",
+    "crm": "210301.0",
+    "hospital": "PEDREIRA",
+    "mes": "FEV/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "SHIZUMI ISERI GIRALDELLI",
+    "crm": "210315.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "DOMINIQUE AGUIAR BARBOSA PRADO",
+    "crm": "210348.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 3549.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "DOUGLAS YUJI SAITO",
+    "crm": "210399.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 22762.2799999954,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINA FUIN ZAUITH",
+    "crm": "210429.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 4050.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "IAN TORRES DE LIMA",
+    "crm": "210852.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1849.99999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUILHERME LIGÓRIO BENEDITO DOMINGUES",
+    "crm": "210971.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 3099.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "EDUARDO KOLTUN SANVESSO",
+    "crm": "211305.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 1800.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL SOUZA LORENZONI",
+    "crm": "211320.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1749.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "PATRICIA PINHEIRO CABRAL",
+    "crm": "211454.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1999.99999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "RICARDO TORRES DA SILVEIRA UGINO",
+    "crm": "211479.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 5599.99968,
+    "inss": 0.0
+  },
+  {
+    "nome": "RICARDO TORRES DA SILVEIRA UGINO",
+    "crm": "211479.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 3906.388665666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "RICARDO TORRES DA SILVEIRA UGINO",
+    "crm": "211479.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 2648.333182,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR MENEZES DA CUNHA",
+    "crm": "211660.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 1625.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR MENEZES DA CUNHA",
+    "crm": "211660.0",
+    "hospital": "MBOI",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANILO NADAL RODRIGUES",
+    "crm": "211699.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2899.9999999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS PARK HAN",
+    "crm": "211748.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1549.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA OLIVEIRA TOCANTINS ALVARES",
+    "crm": "211754.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 1747.916666666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA OLIVEIRA TOCANTINS ALVARES",
+    "crm": "211754.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2910.416666666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "BIANCA MARTINS MALDONADO",
+    "crm": "211904.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 3200.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "EVELYN MOURA DE ASSIS",
+    "crm": "211976.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 5099.99999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABELA MAYUMI TAYAMA",
+    "crm": "212040.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABELA MAYUMI TAYAMA",
+    "crm": "212040.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 5799.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABELA MAYUMI TAYAMA",
+    "crm": "212040.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 5799.999998400001,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABELA MAYUMI TAYAMA",
+    "crm": "212040.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 21159.71990433333,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABELA MAYUMI TAYAMA",
+    "crm": "212040.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 22777.29586700001,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABELA MAYUMI TAYAMA",
+    "crm": "212040.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 39350.66056952779,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS NETTO NASCIMENTO",
+    "crm": "212120.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 5799.999998400001,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS NETTO NASCIMENTO",
+    "crm": "212120.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 8699.999976,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELO DE OLIVEIRA MOURAO JUNIOR",
+    "crm": "212139.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELO DE OLIVEIRA MOURAO JUNIOR",
+    "crm": "212139.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 1050.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "RENAN GIFFONI RODRIGUES",
+    "crm": "212212.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 7049.9999999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "TERUMY DA SILVA BATISTA",
+    "crm": "212236.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 8875.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "TERUMY DA SILVA BATISTA",
+    "crm": "212236.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 30699.999936,
+    "inss": 0.0
+  },
+  {
+    "nome": "TERUMY DA SILVA BATISTA",
+    "crm": "212236.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 28199.99999360001,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR GALVAO PINHEIRO",
+    "crm": "212253.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1749.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR GALVAO PINHEIRO",
+    "crm": "212253.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 1749.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR GALVAO PINHEIRO",
+    "crm": "212253.0",
+    "hospital": "HU",
+    "mes": "JAN/27",
+    "ted": 1800.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR GALVAO PINHEIRO",
+    "crm": "212253.0",
+    "hospital": "HU",
+    "mes": "MAR/27",
+    "ted": 1800.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GILSON MATHEUS SILVEIRA DE MELO",
+    "crm": "212493.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1561.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABELLA MAGNANO BATISTA",
+    "crm": "212506.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2286.666536,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABELLA MAGNANO BATISTA",
+    "crm": "212506.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1983.33322,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABELLA MAGNANO BATISTA",
+    "crm": "212506.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1835.555450666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARISSA RABELO PINHEIRO",
+    "crm": "212533.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 2598.816,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS SILVEIRA CARNEIRO ILDEFONSO DOURADO",
+    "crm": "212581.0",
+    "hospital": "HGP",
+    "mes": "JAN/27",
+    "ted": 8230.46,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS SILVEIRA CARNEIRO ILDEFONSO DOURADO",
+    "crm": "212581.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 5855.378,
+    "inss": 0.0
+  },
+  {
+    "nome": "MONYQUE HOLANDA COSME",
+    "crm": "212587.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 4149.99999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROBERTA GRAZZIOTTI PAULA",
+    "crm": "212613.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 23962.2799999948,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCOS DANILLO DE OLIVEIRA REIS",
+    "crm": "212836.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCOS DANILLO DE OLIVEIRA REIS",
+    "crm": "212836.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCOS DANILLO DE OLIVEIRA REIS",
+    "crm": "212836.0",
+    "hospital": "MBOI",
+    "mes": "MAR/27",
+    "ted": 3600.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCOS DANILLO DE OLIVEIRA REIS",
+    "crm": "212836.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCOS DANILLO DE OLIVEIRA REIS",
+    "crm": "212836.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "JORDANA CUNHA DE OLIVEIRA SILVA",
+    "crm": "212923.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3002.777777623333,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO OCTAVIO AUGUSTO MURTA AMBROSIO",
+    "crm": "213105.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 15644.8875,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOYCE SOUSA DE MACEDO",
+    "crm": "213124.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 10019.039968,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOYCE SOUSA DE MACEDO",
+    "crm": "213124.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 20169.03999400001,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOYCE SOUSA DE MACEDO",
+    "crm": "213124.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 6970.832934999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOYCE SOUSA DE MACEDO",
+    "crm": "213124.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 618.3332979999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOYCE SOUSA DE MACEDO",
+    "crm": "213124.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1788.888786666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "ADRIANA DE SOUSA RÓS",
+    "crm": "213235.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 11999.9999800002,
+    "inss": 0.0
+  },
+  {
+    "nome": "ADRIANA DE SOUSA RÓS",
+    "crm": "213235.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 11299.999944,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARIAH MENOCI MORTEAN",
+    "crm": "213261.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIELA VIEIRA ENDRICE",
+    "crm": "213312.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 9450.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "RENAN MATHEUS SCHAPUIS TOMAZ",
+    "crm": "213494.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA RIBEIRO BELARMINO",
+    "crm": "213512.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 9579.41999968,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO MARCOS LOPES SANTOS",
+    "crm": "213530.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO MARCOS LOPES SANTOS",
+    "crm": "213530.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 4666.6655,
+    "inss": 0.0
+  },
+  {
+    "nome": "KIM SOARES MARINHO",
+    "crm": "213591.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "KIM SOARES MARINHO",
+    "crm": "213591.0",
+    "hospital": "HUSBC",
+    "mes": "MAR/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO VICTOR LUCAS DE ALMEIDA RAMIRO",
+    "crm": "213701.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ODARA CAROLINY DOS SANTOS",
+    "crm": "213868.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1923.25,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAPHAEL ANDRADE GONÇALVES BORGES",
+    "crm": "213967.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 7749.999959999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAPHAEL ANDRADE GONÇALVES BORGES",
+    "crm": "213967.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 4649.999760000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARISSA NUNES DIAS",
+    "crm": "214286.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARISSA NUNES DIAS",
+    "crm": "214286.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 5599.998600000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAMILA GRANUSSO ADRI",
+    "crm": "214322.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 6999.999639999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAMILA GRANUSSO ADRI",
+    "crm": "214322.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 12599.99928,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAMILA GRANUSSO ADRI",
+    "crm": "214322.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 5599.99968,
+    "inss": 0.0
+  },
+  {
+    "nome": "FERNANDA LIE GOTO",
+    "crm": "214512.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 6199.999968,
+    "inss": 0.0
+  },
+  {
+    "nome": "MURILO BRANDIMARTE",
+    "crm": "214695.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 3096.151,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOSÉ RENATO AZEVEDO ARAUJO",
+    "crm": "214822.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 8875.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOSÉ RENATO AZEVEDO ARAUJO",
+    "crm": "214822.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 9000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MORENA LOBO DE OLIVEIRA",
+    "crm": "214884.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 5204.999999879999,
+    "inss": 0.0
+  },
+  {
+    "nome": "AMANDA GAMBI ROBLES",
+    "crm": "215135.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 12799.9968,
+    "inss": 0.0
+  },
+  {
+    "nome": "AMANDA GAMBI ROBLES",
+    "crm": "215135.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 12799.9968,
+    "inss": 0.0
+  },
+  {
+    "nome": "TATIANE TORQUATO SILVA RODRIGUES",
+    "crm": "215229.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1399.99999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "EDUARDO MAZAO MIRANDA",
+    "crm": "215230.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1600.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL ANNICHINO BATAGIN",
+    "crm": "215266.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 5799.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL ANNICHINO BATAGIN",
+    "crm": "215266.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 4349.9999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL ANNICHINO BATAGIN",
+    "crm": "215266.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 7999.999599999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL ANNICHINO BATAGIN",
+    "crm": "215266.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 8707.221724666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL ANNICHINO BATAGIN",
+    "crm": "215266.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 7540.555124666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "CARLA SHIRASSU BARBIERI",
+    "crm": "215344.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "CARLA SHIRASSU BARBIERI",
+    "crm": "215344.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "PALOMA OLIVEIRA DE VASCONCELOS",
+    "crm": "215552.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 5074.999986,
+    "inss": 0.0
+  },
+  {
+    "nome": "PALOMA OLIVEIRA DE VASCONCELOS",
+    "crm": "215552.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARISSA MACELLARI",
+    "crm": "215604.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2174.9999999994,
+    "inss": 0.0
+  },
+  {
+    "nome": "BARBARA BUCCELLI COLONNO",
+    "crm": "215717.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 2899.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "BARBARA BUCCELLI COLONNO",
+    "crm": "215717.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 5448.333021999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "BARBARA BUCCELLI COLONNO",
+    "crm": "215717.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1316.388813666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "BARBARA BUCCELLI COLONNO",
+    "crm": "215717.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 6199.99968,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAELA FONSECA FALCÃO",
+    "crm": "215772.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 10374.999999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS FELIPE FERREIRA AGUIAR",
+    "crm": "215788.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 8179.41999968,
+    "inss": 0.0
+  },
+  {
+    "nome": "HEITOR MARTINS LOPES DOS SANTOS",
+    "crm": "216314.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 13399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "HEITOR MARTINS LOPES DOS SANTOS",
+    "crm": "216314.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 21699.99888,
+    "inss": 0.0
+  },
+  {
+    "nome": "HEITOR MARTINS LOPES DOS SANTOS",
+    "crm": "216314.0",
+    "hospital": "MBOI",
+    "mes": "MAR/27",
+    "ted": 19030.55544533835,
+    "inss": 0.0
+  },
+  {
+    "nome": "JULIA BARBIZAN PREVIDI",
+    "crm": "216320.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 10337.2799999974,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS ABDO PEREIRA",
+    "crm": "216335.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 6750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALEXANDRE CAMPOS PEREIRA MAIA",
+    "crm": "216393.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 15999.996,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALEXIA DIAS FONTES ROSA",
+    "crm": "216394.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 6750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA PAULA MARANHO WATANABE",
+    "crm": "216402.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 8748.8825,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA PAULA MARANHO WATANABE",
+    "crm": "216402.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 15625.0000000006,
+    "inss": 0.0
+  },
+  {
+    "nome": "FAUZE CAMARGO MALUF",
+    "crm": "216455.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 5023.164000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIELA ANZAI PAVONI",
+    "crm": "216463.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2099.999879999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "GIOVANA MOREIRA MINCHILLO",
+    "crm": "216473.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 12012.2799999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABELA PEREIRA BLANCO",
+    "crm": "216491.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2700.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ABRAHÃO LOTHAR WEISSENBERG",
+    "crm": "216633.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ABRAHÃO LOTHAR WEISSENBERG",
+    "crm": "216633.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRE FELIPE SAHD DE MESQUITA",
+    "crm": "216647.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIELA PATRICIA CRUZ MESIAS",
+    "crm": "216685.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 4050.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARISSA YUKARI TOZAKI TAMADA",
+    "crm": "216763.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 1749.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARISSA YUKARI TOZAKI TAMADA",
+    "crm": "216763.0",
+    "hospital": "PEDREIRA",
+    "mes": "JAN/27",
+    "ted": 1600.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "NATHALIE GABRIELLE GOMES LESSA ALTIERI",
+    "crm": "216831.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "NATHALIE GABRIELLE GOMES LESSA ALTIERI",
+    "crm": "216831.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIEL EDUARDO MELO",
+    "crm": "217327.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIEL EDUARDO MELO",
+    "crm": "217327.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIEL EDUARDO MELO",
+    "crm": "217327.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 9599.9976,
+    "inss": 0.0
+  },
+  {
+    "nome": "GIOVANI DE OLIVEIRA SOUSA",
+    "crm": "217367.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1244.444373333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "HENRIQUE MALTEZE GARCIA RODRIGUES",
+    "crm": "217376.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 8314.443969333332,
+    "inss": 0.0
+  },
+  {
+    "nome": "HENRIQUE MALTEZE GARCIA RODRIGUES",
+    "crm": "217376.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 9799.99944,
+    "inss": 0.0
+  },
+  {
+    "nome": "RENAN RAMON DE SOUZA LOPES",
+    "crm": "217493.0",
+    "hospital": "PEDREIRA",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "RENAN RAMON DE SOUZA LOPES",
+    "crm": "217493.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2799.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "RENAN RAMON DE SOUZA LOPES",
+    "crm": "217493.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 4899.999719999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZ FERNANDO DE CARVALHO SCAGLIONE",
+    "crm": "217769.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1449.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARINA OLIVEIRA DE MATOS SILVA",
+    "crm": "217805.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2700.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "RICARDO YUGI ERI",
+    "crm": "217870.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 5799.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "KLAUS WERNER WENDE",
+    "crm": "217975.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "KLAUS WERNER WENDE",
+    "crm": "217975.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 4349.999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "KLAUS WERNER WENDE",
+    "crm": "217975.0",
+    "hospital": "PEDREIRA",
+    "mes": "FEV/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINA PEDROSA DE ALMEIDA",
+    "crm": "218069.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 10409.99999976,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINE SUGIMOTO ONDANI",
+    "crm": "218073.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 3350.0000000076,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINE SUGIMOTO ONDANI",
+    "crm": "218073.0",
+    "hospital": "HU",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GIULIA CARLI MENDES",
+    "crm": "218126.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 699.9999599999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "GIULIA CARLI MENDES",
+    "crm": "218126.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "JACQUELINE MENDES DE SOUZA",
+    "crm": "218146.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAYANNE AZEVEDO PEINADO",
+    "crm": "218232.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 3249.959,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAYANNE AZEVEDO PEINADO",
+    "crm": "218232.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAYANNE AZEVEDO PEINADO",
+    "crm": "218232.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LAIS YUMI TAKAOKA",
+    "crm": "218349.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 4974.999999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO PARACAMPO COUTEIRO",
+    "crm": "218412.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 7299.9999999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO PARACAMPO COUTEIRO",
+    "crm": "218412.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO HENRIQUE LOUREIRO",
+    "crm": "218478.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1549.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS OLIVEIRA CASTRO",
+    "crm": "218572.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1999.99999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS OLIVEIRA CASTRO",
+    "crm": "218572.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS OLIVEIRA CASTRO",
+    "crm": "218572.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 5799.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS LUE BISPO PEREIRA",
+    "crm": "218680.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 1937.5,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS LUE BISPO PEREIRA",
+    "crm": "218680.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 2708.25,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA PONTE DAUMAS",
+    "crm": "218757.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 2899.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA PONTE DAUMAS",
+    "crm": "218757.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA PONTE DAUMAS",
+    "crm": "218757.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 21684.165719,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA PONTE DAUMAS",
+    "crm": "218757.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 18121.11016133333,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA PONTE DAUMAS",
+    "crm": "218757.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 15999.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALESSANDRA OLIVIERI GONÇALVES",
+    "crm": "218767.0",
+    "hospital": "PEDREIRA",
+    "mes": "JAN/27",
+    "ted": 3200.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALESSANDRA OLIVIERI GONÇALVES",
+    "crm": "218767.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2393.75,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO TONELLO ROMERO",
+    "crm": "218832.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2799.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL PIMENTEL DE MIRANDA",
+    "crm": "219066.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL PIMENTEL DE MIRANDA",
+    "crm": "219066.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL PIMENTEL DE MIRANDA",
+    "crm": "219066.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO VICTOR BRANDÃO ALMEIDA",
+    "crm": "219243.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 22250.000000014,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO VICTOR BRANDÃO ALMEIDA",
+    "crm": "219243.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 799.9998,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO VICTOR BRANDÃO ALMEIDA",
+    "crm": "219243.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 2399.9994,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO VICTOR BRANDÃO ALMEIDA",
+    "crm": "219243.0",
+    "hospital": "HGP",
+    "mes": "JAN/27",
+    "ted": 12000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO VICTOR BRANDÃO ALMEIDA",
+    "crm": "219243.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 23666.6652,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO VICTOR BRANDÃO ALMEIDA",
+    "crm": "219243.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 46153.092,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO VICTOR BRANDÃO ALMEIDA",
+    "crm": "219243.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 24120.464,
+    "inss": 0.0
+  },
+  {
+    "nome": "VITOR VINICIUS QUEIROZ DE SOUZA",
+    "crm": "219420.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 1937.5,
+    "inss": 0.0
+  },
+  {
+    "nome": "VITOR VINICIUS QUEIROZ DE SOUZA",
+    "crm": "219420.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 3749.877,
+    "inss": 0.0
+  },
+  {
+    "nome": "VITOR VINICIUS QUEIROZ DE SOUZA",
+    "crm": "219420.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "VITOR VINICIUS QUEIROZ DE SOUZA",
+    "crm": "219420.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 10799.9973,
+    "inss": 0.0
+  },
+  {
+    "nome": "VITOR VINICIUS QUEIROZ DE SOUZA",
+    "crm": "219420.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "VITOR VINICIUS QUEIROZ DE SOUZA",
+    "crm": "219420.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAEL MOREIRA DE SÁ",
+    "crm": "219501.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 3280.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FILIPE DE ARRUDA PESSOA",
+    "crm": "219539.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 5799.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "FILIPE DE ARRUDA PESSOA",
+    "crm": "219539.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS GOMES DINIZ",
+    "crm": "219720.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1699.99999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUSTAVO MARTINI PERINI",
+    "crm": "219807.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 3150.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUSTAVO MARTINI PERINI",
+    "crm": "219807.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 4370.363666666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "HENRI LUIZ MORGAN",
+    "crm": "219808.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 5599.99968,
+    "inss": 0.0
+  },
+  {
+    "nome": "HENRI LUIZ MORGAN",
+    "crm": "219808.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2799.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "HENRI LUIZ MORGAN",
+    "crm": "219808.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 5899.99968,
+    "inss": 0.0
+  },
+  {
+    "nome": "CECILIA FERREIRA DE ARAUJO CARVALHO",
+    "crm": "220048.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 3762.5,
+    "inss": 0.0
+  },
+  {
+    "nome": "CECILIA FERREIRA DE ARAUJO CARVALHO",
+    "crm": "220048.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 4725.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "CECILIA FERREIRA DE ARAUJO CARVALHO",
+    "crm": "220048.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 20199.99989200032,
+    "inss": 0.0
+  },
+  {
+    "nome": "CECILIA FERREIRA DE ARAUJO CARVALHO",
+    "crm": "220048.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 14399.999928,
+    "inss": 0.0
+  },
+  {
+    "nome": "JORGE LANDIVAR COUTINHO",
+    "crm": "220064.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 4779.41999976,
+    "inss": 0.0
+  },
+  {
+    "nome": "EDUARDO TELES DE LIMA LOPES",
+    "crm": "220166.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1600.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FERNANDO D'ALMEIDA PERAZZO",
+    "crm": "220175.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1999.99999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARYSSA ALMEIDA DE ANDRADE TENÓRIO",
+    "crm": "220218.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 4874.9999999994,
+    "inss": 0.0
+  },
+  {
+    "nome": "PEDRO GUIMARAES CANDIDO FREIRE",
+    "crm": "220274.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 3199.999991999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "PEDRO GUIMARAES CANDIDO FREIRE",
+    "crm": "220274.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1549.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "PEDRO GUIMARAES CANDIDO FREIRE",
+    "crm": "220274.0",
+    "hospital": "MBOI",
+    "mes": "MAR/27",
+    "ted": 3099.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "THATIANY DA SILVA LIMA",
+    "crm": "220299.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 6861.944052333332,
+    "inss": 0.0
+  },
+  {
+    "nome": "THATIANY DA SILVA LIMA",
+    "crm": "220299.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 6681.110729333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "THATIANY DA SILVA LIMA",
+    "crm": "220299.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 5265.555254666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS FARINA SARTORI",
+    "crm": "220306.0",
+    "hospital": "HGP",
+    "mes": "JAN/27",
+    "ted": 8000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS FARINA SARTORI",
+    "crm": "220306.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 6400.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS FARINA SARTORI",
+    "crm": "220306.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1749.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS FARINA SARTORI",
+    "crm": "220306.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 1749.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS FARINA SARTORI",
+    "crm": "220306.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2822.916666666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS FARINA SARTORI",
+    "crm": "220306.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1583.333333333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS FARINA SARTORI",
+    "crm": "220306.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 189.5833333333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENAND MEDEIROS ASFORA",
+    "crm": "220440.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 12399.999936,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENAND MEDEIROS ASFORA",
+    "crm": "220440.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 10949.99952,
+    "inss": 0.0
+  },
+  {
+    "nome": "MANOEL FERREIRA CAMPOS NETO",
+    "crm": "220512.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA PAULA DE FIGUEIREDO ANDRADE",
+    "crm": "220660.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 1600.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA PAULA DE FIGUEIREDO ANDRADE",
+    "crm": "220660.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 841.6666666666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA PAULA DE FIGUEIREDO ANDRADE",
+    "crm": "220660.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 3895.833333333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "ERON CARVALHO DA SILVA",
+    "crm": "220703.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 15091.9,
+    "inss": 0.0
+  },
+  {
+    "nome": "ERON CARVALHO DA SILVA",
+    "crm": "220703.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 10318.968,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS DE ABREU SESCONETTO",
+    "crm": "220906.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1449.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JHONNATAN SMITH SOUZA PINTO",
+    "crm": "220951.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2799.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "JHONNATAN SMITH SOUZA PINTO",
+    "crm": "220951.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 699.9999599999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "JHONNATAN SMITH SOUZA PINTO",
+    "crm": "220951.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1335.833257,
+    "inss": 0.0
+  },
+  {
+    "nome": "IANA KATIA ARAUJO GONCALVES",
+    "crm": "221208.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "IANA KATIA ARAUJO GONCALVES",
+    "crm": "221208.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 3499.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "IANA KATIA ARAUJO GONCALVES",
+    "crm": "221208.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 14600.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "IANA KATIA ARAUJO GONCALVES",
+    "crm": "221208.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 6400.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "IANA KATIA ARAUJO GONCALVES",
+    "crm": "221208.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 1364.583333333334,
+    "inss": 0.0
+  },
+  {
+    "nome": "IANA KATIA ARAUJO GONCALVES",
+    "crm": "221208.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 591.6666666666669,
+    "inss": 0.0
+  },
+  {
+    "nome": "IANA KATIA ARAUJO GONCALVES",
+    "crm": "221208.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 308.3333333333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "PEDRO DURAN MARQUEZ DE SOUZA",
+    "crm": "221238.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 2952.853333333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "ARTHUR HENRIQUE DA SILVA DUTRA",
+    "crm": "221322.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 9599.9976,
+    "inss": 0.0
+  },
+  {
+    "nome": "KLEBER ALLAN BITTENCOURT DE CASTRO VIEIRA",
+    "crm": "221343.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2700.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "PEDRO PIASSAROLI DE ABREU",
+    "crm": "221478.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 3799.9999999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "JHEYME HORÁCIO DE SÁ SILVA",
+    "crm": "221523.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 4874.9999999994,
+    "inss": 0.0
+  },
+  {
+    "nome": "REBECA RIGOBELO VENDRAMIN",
+    "crm": "221825.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1900.000000008,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARIA CLARA LUZ FERREIRA",
+    "crm": "221878.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 14287.2799999978,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARIA CLARA LUZ FERREIRA",
+    "crm": "221878.0",
+    "hospital": "HUSBC",
+    "mes": "MAR/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "KELVIN HAMILTON NASCIMENTO DE SOUZA",
+    "crm": "222210.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 9000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "KELVIN HAMILTON NASCIMENTO DE SOUZA",
+    "crm": "222210.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 13500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "YASMIN GOIS DE MELLO",
+    "crm": "222222.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 15999.996,
+    "inss": 0.0
+  },
+  {
+    "nome": "YASMIN GOIS DE MELLO",
+    "crm": "222222.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNO LEONARDO MICELI",
+    "crm": "222264.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 38957.59991673999,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNO LEONARDO MICELI",
+    "crm": "222264.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 29200.84999300001,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA PIGNATARO",
+    "crm": "222403.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 3375.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA PIGNATARO",
+    "crm": "222403.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA PIGNATARO",
+    "crm": "222403.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 2899.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA PIGNATARO",
+    "crm": "222403.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 10149.9999972,
+    "inss": 0.0
+  },
+  {
+    "nome": "TERESA CRISTINA ALVES DUARTE",
+    "crm": "222420.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1749.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "EDUARDO VIDAL DE HOLANDA",
+    "crm": "222529.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "KAMILA SILVEIRA ALVES DE OLIVEIRA",
+    "crm": "222579.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 19553.332456,
+    "inss": 0.0
+  },
+  {
+    "nome": "KAMILA SILVEIRA ALVES DE OLIVEIRA",
+    "crm": "222579.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 13999.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "KAMILA SILVEIRA ALVES DE OLIVEIRA",
+    "crm": "222579.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 13403.332576,
+    "inss": 0.0
+  },
+  {
+    "nome": "TOSIN AYODEJI AYODELE",
+    "crm": "222650.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 15499.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "OLAVO DE BARROS PEREIRA RABELLO E SILVA",
+    "crm": "222774.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 8026.666287999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "OLAVO DE BARROS PEREIRA RABELLO E SILVA",
+    "crm": "222774.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 3647.777569333332,
+    "inss": 0.0
+  },
+  {
+    "nome": "OLAVO DE BARROS PEREIRA RABELLO E SILVA",
+    "crm": "222774.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 6688.888506666665,
+    "inss": 0.0
+  },
+  {
+    "nome": "BIANCA JIMENES MANZOLLI LOPES SANCHES",
+    "crm": "222830.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 5699.9999999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "MANUELA MASCARO DIAS",
+    "crm": "222887.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "VANESSA RAMOS ZAUDE",
+    "crm": "222917.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 13049.999964,
+    "inss": 0.0
+  },
+  {
+    "nome": "VANESSA RAMOS ZAUDE",
+    "crm": "222917.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 7249.999998000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "VANESSA RAMOS ZAUDE",
+    "crm": "222917.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 5559.166348999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "VANESSA RAMOS ZAUDE",
+    "crm": "222917.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 8306.666191999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "VANESSA RAMOS ZAUDE",
+    "crm": "222917.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 3499.999799999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOSE IAGO SIMOES FERREIRA",
+    "crm": "223133.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 7363.24875,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUMA ROSA BAYMA",
+    "crm": "223362.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 7249.999998000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUMA ROSA BAYMA",
+    "crm": "223362.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 7511.388579666665,
+    "inss": 0.0
+  },
+  {
+    "nome": "SILVIO JOSE LANZA DE OLIVEIRA",
+    "crm": "223448.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 628.9374999854999,
+    "inss": 0.0
+  },
+  {
+    "nome": "RENAN GIANECCHINI VIGNARDI",
+    "crm": "223519.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 12799.9968,
+    "inss": 0.0
+  },
+  {
+    "nome": "KLEYBSON SAMUEL MELO DE ANDRADE",
+    "crm": "223580.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABEL MESTRINER DE SOUZA",
+    "crm": "223697.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISABELLA MARIA HLADKYI CYPRIANO",
+    "crm": "223834.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 1734.99999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JULIA MENDONÇA REZENDE",
+    "crm": "223839.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 7472.49999986,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS ANTUNES PEREIRA",
+    "crm": "223870.0",
+    "hospital": "MBOI",
+    "mes": "JAN/27",
+    "ted": 16500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS ANTUNES PEREIRA",
+    "crm": "223870.0",
+    "hospital": "MBOI",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO YURI KASPUTIS ZANINI",
+    "crm": "223993.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2799.999839999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEONARDO YURI KASPUTIS ZANINI",
+    "crm": "223993.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA COLOMBA JARDIM",
+    "crm": "224055.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA COLOMBA JARDIM",
+    "crm": "224055.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 6659.721841666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA COLOMBA JARDIM",
+    "crm": "224055.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 3941.388663666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA COLOMBA JARDIM",
+    "crm": "224055.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 4139.721985666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARISSA ALVES DE ALMEIDA",
+    "crm": "224277.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 15094.45138857317,
+    "inss": 0.0
+  },
+  {
+    "nome": "HMMD ORTOP",
+    "crm": "225142.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1549.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "GIANE PRATA DA COSTA FILHA",
+    "crm": "225270.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZ GUSTAVO MARTINS BURANELLO",
+    "crm": "225425.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2199.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZ GUSTAVO MARTINS BURANELLO",
+    "crm": "225425.0",
+    "hospital": "HUSBC",
+    "mes": "MAR/27",
+    "ted": 3149.9999999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "NATALIA ANTUNES BORTOLINI",
+    "crm": "225443.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 3649.9999999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALICE NUNES LOPES ALBUQUERQUE",
+    "crm": "225496.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2174.9999999994,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARILIA AGNES VIANA CAVALCANTI VALENCA",
+    "crm": "225573.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1153.95,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARILIA AGNES VIANA CAVALCANTI VALENCA",
+    "crm": "225573.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 2472.75,
+    "inss": 0.0
+  },
+  {
+    "nome": "RENATA MAGNANI DONATO",
+    "crm": "225595.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "RENATA MAGNANI DONATO",
+    "crm": "225595.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINA PIMENTEL DUARTE NOVO",
+    "crm": "225706.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINA PIMENTEL DUARTE NOVO",
+    "crm": "225706.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINA VILLALBA MOYA RODRIGUES",
+    "crm": "225709.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 9799.99944,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINA VILLALBA MOYA RODRIGUES",
+    "crm": "225709.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 2799.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIEL FRANCISCO FORTUNATO",
+    "crm": "225724.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1549.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARISSA CRIVELARO",
+    "crm": "225874.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 5400.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA ARANEO DE QUEIROZ BARROS",
+    "crm": "225919.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS FERRACINI VIOTTO",
+    "crm": "226257.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 6399.999680000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS FELIPE DE OLIVEIRA PARDAL",
+    "crm": "226603.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAEL CARDOSO PRATES",
+    "crm": "226668.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 3099.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "BIANCA RUIZ NICOLAO",
+    "crm": "226754.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "BIANCA RUIZ NICOLAO",
+    "crm": "226754.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "BIANCA RUIZ NICOLAO",
+    "crm": "226754.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ERICA KAREN DEXTRE TORRES",
+    "crm": "226783.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ERICA KAREN DEXTRE TORRES",
+    "crm": "226783.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1699.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "ERICA KAREN DEXTRE TORRES",
+    "crm": "226783.0",
+    "hospital": "MBOI",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JÉSSICA BRENDA DE ALBUQUERQUE BELÉM",
+    "crm": "227061.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 4349.9999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA TRAVASSOS DA ROSA NETTO",
+    "crm": "227147.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 5799.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA TRAVASSOS DA ROSA NETTO",
+    "crm": "227147.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1296.944370333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "OMAR SAYED TADDEO GHANI",
+    "crm": "227193.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1283.33326,
+    "inss": 0.0
+  },
+  {
+    "nome": "JÁ FOI PAGO 12 HORAS MÊS PASSADO DO RETROATIVO",
+    "crm": "227288.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JULIA GRAMS QUINTAS",
+    "crm": "227349.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1449.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JULIA GRAMS QUINTAS",
+    "crm": "227349.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS LOPES DURANTE",
+    "crm": "227364.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ADRIENE ALVAR GARCIA",
+    "crm": "227438.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALEX MASSAKI MAVATARI FUJITA",
+    "crm": "227979.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "BEATRIZ URBANI PESSUTTI",
+    "crm": "228033.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 3966.66644,
+    "inss": 0.0
+  },
+  {
+    "nome": "BEATRIZ URBANI PESSUTTI",
+    "crm": "228033.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1720.833235,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA TABORDA BARTASEVICIUS",
+    "crm": "228038.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2020.277662333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA TABORDA BARTASEVICIUS",
+    "crm": "228038.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA TABORDA BARTASEVICIUS",
+    "crm": "228038.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ELIS NOGARA LISBOA",
+    "crm": "228087.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 5799.999998400001,
+    "inss": 0.0
+  },
+  {
+    "nome": "ELIS NOGARA LISBOA",
+    "crm": "228087.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 5799.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ELIS NOGARA LISBOA",
+    "crm": "228087.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "GIOVANNA LIMA LEBATE",
+    "crm": "228812.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 4349.9999988,
+    "inss": 0.0
+  },
+  {
+    "nome": "GIOVANNA LIMA LEBATE",
+    "crm": "228812.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 5799.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR DE LIMA LACERDA",
+    "crm": "229049.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR DE LIMA LACERDA",
+    "crm": "229049.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 4899.99972,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR DE LIMA LACERDA",
+    "crm": "229049.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 2799.999839999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE ARANIBAR SOARES DA SILVA",
+    "crm": "229173.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE GONZALES GIMENES",
+    "crm": "229399.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 6199.999680000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAEL FILIPE DAL BEN MARTINS",
+    "crm": "229704.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 3750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAEL FILIPE DAL BEN MARTINS",
+    "crm": "229704.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 8699.999976,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAEL FILIPE DAL BEN MARTINS",
+    "crm": "229704.0",
+    "hospital": "PEDREIRA",
+    "mes": "FEV/27",
+    "ted": 6524.999998200001,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAEL FILIPE DAL BEN MARTINS",
+    "crm": "229704.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 699.99996,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO ROBERTO SAMPAIO PEIXOTO DE SOUSA",
+    "crm": "229928.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO ROBERTO SAMPAIO PEIXOTO DE SOUSA",
+    "crm": "229928.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 4199.999839999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO ROBERTO SAMPAIO PEIXOTO DE SOUSA",
+    "crm": "229928.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2799.999839999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO ROBERTO SAMPAIO PEIXOTO DE SOUSA",
+    "crm": "229928.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 4899.999719999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "PEDRO LINS PALMEIRA CARDOSO",
+    "crm": "229929.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "VITOR MELO REBELO",
+    "crm": "229936.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO EDUARDO DE ASSIS MARQUES",
+    "crm": "230035.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 1400.04,
+    "inss": 0.0
+  },
+  {
+    "nome": "WAGNER GOMES DA NOBREGA SILVA",
+    "crm": "230098.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 800.1497199999994,
+    "inss": 0.0
+  },
+  {
+    "nome": "WAGNER GOMES DA NOBREGA SILVA",
+    "crm": "230098.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 10642.09371633333,
+    "inss": 0.0
+  },
+  {
+    "nome": "WAGNER GOMES DA NOBREGA SILVA",
+    "crm": "230098.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 4200.14964,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROBERTA LUCIANA CABRAL BEZERRA",
+    "crm": "230225.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROBERTA LUCIANA CABRAL BEZERRA",
+    "crm": "230225.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "YURI SANTANA DO CARMO",
+    "crm": "230237.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 3562.5,
+    "inss": 0.0
+  },
+  {
+    "nome": "YURI SANTANA DO CARMO",
+    "crm": "230237.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 9873.536,
+    "inss": 0.0
+  },
+  {
+    "nome": "ELISA FARIA UVEDA",
+    "crm": "230253.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ELISA FARIA UVEDA",
+    "crm": "230253.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "ELISA FARIA UVEDA",
+    "crm": "230253.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "CALED MARQUES DE MEDEIROS",
+    "crm": "230313.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 11249.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LETICIA MARX BENGHI",
+    "crm": "230352.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 1411.243666666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "TIAGO LORENZI DA ROCHA E SILVA",
+    "crm": "230386.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 3299.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAEL DE ANDRADE MARTIMIANO",
+    "crm": "230427.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 11599.999968,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUSTAVO VICTOR LUCAS E SILVA",
+    "crm": "230477.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 8699.999976,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUSTAVO VICTOR LUCAS E SILVA",
+    "crm": "230477.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 7249.999998000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUSTAVO VICTOR LUCAS E SILVA",
+    "crm": "230477.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "PEDRO HENRIQUE EIRAS",
+    "crm": "230519.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 699.9999599999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA DE MORAIS TORRES",
+    "crm": "230636.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 4899.99972,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA DE MORAIS TORRES",
+    "crm": "230636.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "MANOELA VALENTE COSTA",
+    "crm": "230712.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 5599.99968,
+    "inss": 0.0
+  },
+  {
+    "nome": "MANOELA VALENTE COSTA",
+    "crm": "230712.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "GIULIANNA CHIQUETO DUARTE",
+    "crm": "230819.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 8699.999976,
+    "inss": 0.0
+  },
+  {
+    "nome": "GIULIANNA CHIQUETO DUARTE",
+    "crm": "230819.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 13049.9999964,
+    "inss": 0.0
+  },
+  {
+    "nome": "VALERIA DE QUEIROZ MOURA REZENDE",
+    "crm": "230873.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIEL DA SILVA MARQUES",
+    "crm": "230938.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 9375.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA SOARES GUERRA",
+    "crm": "231043.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 17314.44356933333,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA SOARES GUERRA",
+    "crm": "231043.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 18689.998932,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZA SOARES GUERRA",
+    "crm": "231043.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 6840.555164666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "IRLA EVELYNE SANTANA ALVES",
+    "crm": "231163.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "IRLA EVELYNE SANTANA ALVES",
+    "crm": "231163.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 17599.9956,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIELA CRISTINA DANTAS",
+    "crm": "231434.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 5799.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "RINA MEGUMI MASHIBA",
+    "crm": "231506.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 10728.98216666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "BARBARA GRILLO BOURGUIGNON",
+    "crm": "231593.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 2174.999994,
+    "inss": 0.0
+  },
+  {
+    "nome": "HENRIQUE KAZUO LIMA KUBO",
+    "crm": "231610.0",
+    "hospital": "PEDREIRA",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "IGOR MEDEIROS SENA",
+    "crm": "231684.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "IGOR MEDEIROS SENA",
+    "crm": "231684.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "IGOR MEDEIROS SENA",
+    "crm": "231684.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 17250.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "IGOR MEDEIROS SENA",
+    "crm": "231684.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 33500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "THALITA TOLDO FERREIRA",
+    "crm": "231707.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 4800.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "THALITA TOLDO FERREIRA",
+    "crm": "231707.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 6400.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "THIAGO CAMPOS DE SOUZA",
+    "crm": "231708.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 6115.253333017001,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAIO PETRI",
+    "crm": "231732.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 699.9999599999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELO LUIZ MAUAD JUNIOR",
+    "crm": "231774.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3899.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "AMANDA BELIZA RAMALHO DE MELO MACEDO",
+    "crm": "231880.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 7699.99976,
+    "inss": 0.0
+  },
+  {
+    "nome": "AMANDA BELIZA RAMALHO DE MELO MACEDO",
+    "crm": "231880.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "AMANDA BELIZA RAMALHO DE MELO MACEDO",
+    "crm": "231880.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 7299.99964,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS JORGE PIRES VIANA",
+    "crm": "232090.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 6299.99964,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS JORGE PIRES VIANA",
+    "crm": "232090.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 2799.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA SABRINA SOARES FERNANDES",
+    "crm": "232187.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNO HENRIQUE ARRUDA DE PAULA",
+    "crm": "232193.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2757.222064666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNO HENRIQUE ARRUDA DE PAULA",
+    "crm": "232193.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "RIENNY DE SOUZA E SILVA",
+    "crm": "232282.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 13499.9968,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELLA VITORIA VOLKWEIS SEGURA",
+    "crm": "232464.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELLA VITORIA VOLKWEIS SEGURA",
+    "crm": "232464.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA LAURA TEODORO DE PAULA",
+    "crm": "232521.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 5616.25,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA LAURA TEODORO DE PAULA",
+    "crm": "232521.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 375.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA LAURA TEODORO DE PAULA",
+    "crm": "232521.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA LAURA TEODORO DE PAULA",
+    "crm": "232521.0",
+    "hospital": "TIRADENTES",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO VASCO GONÇALVES ZENHA",
+    "crm": "232524.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 7249.99998,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO VASCO GONÇALVES ZENHA",
+    "crm": "232524.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO VASCO GONÇALVES ZENHA",
+    "crm": "232524.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 16824.99937,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO VASCO GONÇALVES ZENHA",
+    "crm": "232524.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 16855.27690033333,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRENO VASCO GONÇALVES ZENHA",
+    "crm": "232524.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 19199.99896,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL SILVA DE ALMEIDA",
+    "crm": "232534.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 699.9999599999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL SILVA DE ALMEIDA",
+    "crm": "232534.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 11073.61047833333,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARI HATTORI BALLANTYNE WYPER",
+    "crm": "232704.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARI HATTORI BALLANTYNE WYPER",
+    "crm": "232704.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 840.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS RICHARTZ SANTANA",
+    "crm": "232746.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2899.9999999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTÓRIA MARA VIEIRA ROCHA",
+    "crm": "232828.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 7959.166268999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTÓRIA MARA VIEIRA ROCHA",
+    "crm": "232828.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2749.444287333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTÓRIA MARA VIEIRA ROCHA",
+    "crm": "232828.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 5599.99968,
+    "inss": 0.0
+  },
+  {
+    "nome": "CARLOS MAGNO COSTA COARACY SOBRINHO",
+    "crm": "233487.0",
+    "hospital": "CEJAM",
+    "mes": "JAN/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "CARLOS MAGNO COSTA COARACY SOBRINHO",
+    "crm": "233487.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 7500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS GASPERINI BARREIROS",
+    "crm": "233981.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 2899.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS GASPERINI BARREIROS",
+    "crm": "233981.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2099.999879999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS GASPERINI BARREIROS",
+    "crm": "233981.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 2799.999839999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "JUAN GARY JAVIER BARTOLO",
+    "crm": "234006.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO RICARDO MARTINS ALMEIDA",
+    "crm": "234014.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 24649.999932,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO RICARDO MARTINS ALMEIDA",
+    "crm": "234014.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 23199.99999360001,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRÉ PEREIRA PAIVA MOURA",
+    "crm": "234016.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRÉ PEREIRA PAIVA MOURA",
+    "crm": "234016.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FABLICIO ANTUNES SILVA DE MELO",
+    "crm": "234297.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "FABLICIO ANTUNES SILVA DE MELO",
+    "crm": "234297.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 14399.9964,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELO BARBOSA COELHO FILHO",
+    "crm": "234547.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 285.4166666666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCOS PAULO DOS SANTOS DE SOUSA",
+    "crm": "234969.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 9599.9976,
+    "inss": 0.0
+  },
+  {
+    "nome": "CLEANTO HENRIQUE MEDEIROS DE SOUSA TORRES",
+    "crm": "235284.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 11199.9972,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO ROBERTO TEIXEIRA DOS SANTOS FILHO",
+    "crm": "235329.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 4249.9999999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO ROBERTO TEIXEIRA DOS SANTOS FILHO",
+    "crm": "235329.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 8000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO ROBERTO TEIXEIRA DOS SANTOS FILHO",
+    "crm": "235329.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 4500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO ROBERTO TEIXEIRA DOS SANTOS FILHO",
+    "crm": "235329.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO ROBERTO TEIXEIRA DOS SANTOS FILHO",
+    "crm": "235329.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "PAULO ROBERTO TEIXEIRA DOS SANTOS FILHO",
+    "crm": "235329.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 22399.9944,
+    "inss": 0.0
+  },
+  {
+    "nome": "BIANCA FERNANDES DE AQUINO",
+    "crm": "236164.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA PAULA DINIZ MARRA",
+    "crm": "236409.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 3937.5,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA PAULA DINIZ MARRA",
+    "crm": "236409.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 4025.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA PAULA DINIZ MARRA",
+    "crm": "236409.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 3400.00000000008,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA PAULA DINIZ MARRA",
+    "crm": "236409.0",
+    "hospital": "HMMD",
+    "mes": "FEV/27",
+    "ted": 3399.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA PAULA DINIZ MARRA",
+    "crm": "236409.0",
+    "hospital": "MBOI",
+    "mes": "MAR/27",
+    "ted": 2975.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "RITA DE CASSIA MONTEIRO",
+    "crm": "236831.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "RITA DE CASSIA MONTEIRO",
+    "crm": "236831.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRÉ AKIRA RAMOS TAKAHASHI",
+    "crm": "236937.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2799.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNO ARJONAS BONONI",
+    "crm": "237417.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1549.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNO ARJONAS BONONI",
+    "crm": "237417.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1850.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATEUS BARRADAS RIBEIRO",
+    "crm": "237635.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 2799.999839999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATEUS BARRADAS RIBEIRO",
+    "crm": "237635.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 2926.944294333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "NATALIA BOLLINI DE ARAUJO BARBAGALLO",
+    "crm": "237648.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 3431.444444365333,
+    "inss": 0.0
+  },
+  {
+    "nome": "ARTHUR PETRILLO BELLINTANI",
+    "crm": "237789.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 1265.833261,
+    "inss": 0.0
+  },
+  {
+    "nome": "ARTHUR PETRILLO BELLINTANI",
+    "crm": "237789.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1153.055489666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA ANDRADE BELLO",
+    "crm": "237799.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1449.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JORGE FERRAZ TUMA",
+    "crm": "237922.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1449.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LETICIA LOPES DE SOUZA",
+    "crm": "237946.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3200.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LETICIA LOPES DE SOUZA",
+    "crm": "237946.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 11199.9972,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELA BOTELHO DE CARVALHO",
+    "crm": "237971.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 10324.999968,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELA BOTELHO DE CARVALHO",
+    "crm": "237971.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 11149.99968,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCELA BOTELHO DE CARVALHO",
+    "crm": "237971.0",
+    "hospital": "MBOI",
+    "mes": "MAR/27",
+    "ted": 6399.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISADORA MICHELY PAIVA MAGALHÃES",
+    "crm": "238103.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 3199.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISADORA MICHELY PAIVA MAGALHÃES",
+    "crm": "238103.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1800.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS JIHUN CHOI",
+    "crm": "238474.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 3199.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS JIHUN CHOI",
+    "crm": "238474.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1549.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCO AKIRA BERTUOL KINOSHITA",
+    "crm": "238495.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 3030.823333333334,
+    "inss": 0.0
+  },
+  {
+    "nome": "NADJILA GABRIELA SANTANA SIDANI",
+    "crm": "238564.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 6865.298610952833,
+    "inss": 0.0
+  },
+  {
+    "nome": "THIAGO CARLOS DE ARAUJO (184240)",
+    "crm": "238665.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 15377.915943,
+    "inss": 0.0
+  },
+  {
+    "nome": "LETÍCIA MARIA BARBOSA TUFI",
+    "crm": "238893.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 5000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LETÍCIA MARIA BARBOSA TUFI",
+    "crm": "238893.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 15249.6925,
+    "inss": 0.0
+  },
+  {
+    "nome": "AMELIA LIMONGI ZAMBON",
+    "crm": "239042.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 16679.99999968,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA LAURA DE LIMA ROSSI",
+    "crm": "239052.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "CARLOS EDUARDO ANDRADE PEGOLO",
+    "crm": "239089.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1734.99999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINNICIUS NEEWLER TEIXEIRA DUARTE",
+    "crm": "239411.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 9849.9999999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINNICIUS NEEWLER TEIXEIRA DUARTE",
+    "crm": "239411.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINNICIUS NEEWLER TEIXEIRA DUARTE",
+    "crm": "239411.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR NAGIB QUEIROZ BALECH",
+    "crm": "240274.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 11874.99996,
+    "inss": 0.0
+  },
+  {
+    "nome": "VICTOR NAGIB QUEIROZ BALECH",
+    "crm": "240274.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 8049.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "RACHEL CRISTINA DO CARMO",
+    "crm": "240570.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1080.816,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIELA DE OLIVEIRA PAEZ",
+    "crm": "241313.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 9599.9976,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL HENRIQUE MARQUES",
+    "crm": "241454.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 1485.628333333334,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL HENRIQUE MARQUES",
+    "crm": "241454.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 6807.499610999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL HENRIQUE MARQUES",
+    "crm": "241454.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 2799.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ONES SABINO JUNIOR",
+    "crm": "241632.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 1750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ONES SABINO JUNIOR",
+    "crm": "241632.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCOS BASTOS MIRANDA",
+    "crm": "241757.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 3299.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS SCHENK DE ALMEIDA",
+    "crm": "241843.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 5599.99976,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCIO SEABRA DURE",
+    "crm": "241844.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "STEPHANE PEREIRA DE CARVALHO",
+    "crm": "241870.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 6000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "STEPHANE PEREIRA DE CARVALHO",
+    "crm": "241870.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "STEPHANE PEREIRA DE CARVALHO",
+    "crm": "241870.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 9599.9976,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS SCHENK DE ALMEIDA",
+    "crm": "241873.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "JULIA CARVALHO GARCIA DE ASSIS",
+    "crm": "241913.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1449.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JULIA CARVALHO GARCIA DE ASSIS",
+    "crm": "241913.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS DOMINGOS RIBEIRO",
+    "crm": "241920.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 3187.5,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO EMMANUEL LEIMIG TELLES PARENTE",
+    "crm": "242020.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 4749.999984,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO EMMANUEL LEIMIG TELLES PARENTE",
+    "crm": "242020.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 8149.999760000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "EVANDRO CEZAR CIANFLONE FILHO",
+    "crm": "242135.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 950.000000004,
+    "inss": 0.0
+  },
+  {
+    "nome": "EZEQUIEL DAVID",
+    "crm": "242137.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1449.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIELA TESSARO CREMONEIS",
+    "crm": "242224.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2700.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA ANDRESSA QUIRINO",
+    "crm": "242321.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 7249.99998,
+    "inss": 0.0
+  },
+  {
+    "nome": "BRUNA ANDRESSA QUIRINO",
+    "crm": "242321.0",
+    "hospital": "PEDREIRA",
+    "mes": "FEV/27",
+    "ted": 7249.999998000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "FLÁVIO AUGUSTO PEIXOTO ALEXO",
+    "crm": "242333.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1749.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "FLÁVIO AUGUSTO PEIXOTO ALEXO",
+    "crm": "242333.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 2624.9994,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUSTAVO SOUZA HOFFMAN",
+    "crm": "242339.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2799.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "IAGOR TUNES CHAVES",
+    "crm": "242342.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 9351.110805333334,
+    "inss": 0.0
+  },
+  {
+    "nome": "IAGOR TUNES CHAVES",
+    "crm": "242342.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 13333.88841266667,
+    "inss": 0.0
+  },
+  {
+    "nome": "IAGOR TUNES CHAVES",
+    "crm": "242342.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 22717.49907899999,
+    "inss": 0.0
+  },
+  {
+    "nome": "GILSON RODRIGUES DA SILVA JUNIOR",
+    "crm": "242604.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1600.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GILSON RODRIGUES DA SILVA JUNIOR",
+    "crm": "242604.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "GILSON RODRIGUES DA SILVA JUNIOR",
+    "crm": "242604.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "KAMILLA FABERLEYA CASTRO",
+    "crm": "242639.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1449.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "KAMILLA FABERLEYA CASTRO",
+    "crm": "242639.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "PEDRO PASTORINI FRANCO",
+    "crm": "242728.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "TAIANE ROCHA CAMPELO",
+    "crm": "242746.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 2712.5,
+    "inss": 0.0
+  },
+  {
+    "nome": "TAIANE ROCHA CAMPELO",
+    "crm": "242746.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 3675.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS REGINATO ARAUJO",
+    "crm": "242851.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 2799.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "MATHEUS REGINATO ARAUJO",
+    "crm": "242851.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL CHAVES RETTORE LEANDRO",
+    "crm": "242992.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 17362.2799999976,
+    "inss": 0.0
+  },
+  {
+    "nome": "KASSIA REIS FÉLIX",
+    "crm": "243025.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "KASSIA REIS FÉLIX",
+    "crm": "243025.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARISSA TORRES SOUSA ALCANTARA",
+    "crm": "243029.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 2187.5,
+    "inss": 0.0
+  },
+  {
+    "nome": "LARISSA TORRES SOUSA ALCANTARA",
+    "crm": "243029.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MIGUEL REBOUCAS DE SOUZA",
+    "crm": "243075.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "MIGUEL REBOUCAS DE SOUZA",
+    "crm": "243075.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 11199.9972,
+    "inss": 0.0
+  },
+  {
+    "nome": "MIGUEL REBOUCAS DE SOUZA",
+    "crm": "243075.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MIGUEL REBOUCAS DE SOUZA",
+    "crm": "243075.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "RICHARD DOBRUCKI DE LIMA",
+    "crm": "243234.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 8723.888504666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "RICHARD DOBRUCKI DE LIMA",
+    "crm": "243234.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 9840.555164666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARIANE MENEZES DE MEDEIROS",
+    "crm": "243518.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 5599.9999999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARIANE MENEZES DE MEDEIROS",
+    "crm": "243518.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1600.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARIANE MENEZES DE MEDEIROS",
+    "crm": "243518.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "EMANOELA DA SILVA GONÇALVES",
+    "crm": "243777.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 4050.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS HUMBERTO DA SILVA FREIRE JUNIOR",
+    "crm": "243804.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 15750.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIS HUMBERTO DA SILVA FREIRE JUNIOR",
+    "crm": "243804.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 19500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARIA FERNANDA SOUZA DE CASTRO",
+    "crm": "243873.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 2899.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUSTAVO QUEIROZ DE BARROS",
+    "crm": "244043.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRE LEONARDO NOGUEIRAS FARIAS",
+    "crm": "244196.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1549.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA LUIZA BORGES ABREU",
+    "crm": "244321.0",
+    "hospital": "HU",
+    "mes": "JAN/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUILHERME DE OLIVEIRA PINHEIRO",
+    "crm": "244392.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 4200.000000012,
+    "inss": 0.0
+  },
+  {
+    "nome": "NAYYARA MÁRCIA FERREIRA CARREIRO (244547)",
+    "crm": "244547.0",
+    "hospital": "HGP",
+    "mes": "MAR/27",
+    "ted": 5248.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "TYALA SILVA OLIVEIRA",
+    "crm": "244845.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 10074.999944,
+    "inss": 0.0
+  },
+  {
+    "nome": "TYALA SILVA OLIVEIRA",
+    "crm": "244845.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 24662.49874,
+    "inss": 0.0
+  },
+  {
+    "nome": "VITOR MANZOLLI MARTINELLI",
+    "crm": "244977.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 5562.5,
+    "inss": 0.0
+  },
+  {
+    "nome": "VITOR MANZOLLI MARTINELLI",
+    "crm": "244977.0",
+    "hospital": "TIRADENTES",
+    "mes": "MAR/27",
+    "ted": 1625.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISMAR GOBIRA CHAGAS",
+    "crm": "245126.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 4963.190000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "ISMAR GOBIRA CHAGAS",
+    "crm": "245126.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 7559.55,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO PEDRO RODRIGUES VIEIRA",
+    "crm": "245133.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO PEDRO RODRIGUES VIEIRA",
+    "crm": "245133.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 7999.998000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUSTAVO ADOLFO SANTA CRUZ BERBERY",
+    "crm": "245147.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 16733.75,
+    "inss": 0.0
+  },
+  {
+    "nome": "GUSTAVO ADOLFO SANTA CRUZ BERBERY",
+    "crm": "245147.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 24292.3155,
+    "inss": 0.0
+  },
+  {
+    "nome": "CARLA MICAELE DE FREITAS",
+    "crm": "245884.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2537.499855,
+    "inss": 0.0
+  },
+  {
+    "nome": "CARLA MICAELE DE FREITAS",
+    "crm": "245884.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1244.444373333333,
+    "inss": 0.0
+  },
+  {
+    "nome": "CARLA MICAELE DE FREITAS",
+    "crm": "245884.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1699.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO PEDRO BARBOSA DE OLIVEIRA",
+    "crm": "246163.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "MURILO PUSSINATI PEREZ",
+    "crm": "246787.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "ALICE DA COSTA MACHADO",
+    "crm": "246891.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 3624.999999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "LEANDRO MEIRA MARTINS",
+    "crm": "249251.0",
+    "hospital": "MBOI",
+    "mes": "MAR/27",
+    "ted": 1650.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS AMBROSANO BAULEO",
+    "crm": "249823.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS AMBROSANO BAULEO",
+    "crm": "249823.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "JULIA DOMINGUES CANDELARIA",
+    "crm": "250340.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARIANA XAVIER ANDREO",
+    "crm": "250494.0",
+    "hospital": "HMB",
+    "mes": "MAR/27",
+    "ted": 867.49999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS FELIPE DE OLIVEIRA",
+    "crm": "251260.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 3500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS FELIPE DE OLIVEIRA",
+    "crm": "251260.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 1999.918,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA HELENA LANCELLOTTI NIGRO",
+    "crm": "251702.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 3849.9998,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA HELENA LANCELLOTTI NIGRO",
+    "crm": "251702.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 4199.99976,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANA HELENA LANCELLOTTI NIGRO",
+    "crm": "251702.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 9646.388337666667,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROBERTO BARROS GUANDALINI",
+    "crm": "252656.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1449.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROBERTO BARROS GUANDALINI",
+    "crm": "252656.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2799.999839999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROBERTO BARROS GUANDALINI",
+    "crm": "252656.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 3099.999839999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "BEATRIZ BEZERRA MARQUES OLIVEIRA",
+    "crm": "252893.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL SCHNEIDER ALCALDE",
+    "crm": "254315.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 31376.52666523499,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIEL SCHNEIDER ALCALDE",
+    "crm": "254315.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1449.9999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUDMILA RODRIGUES OLIVEIRA COSTA",
+    "crm": "255042.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 5678.333026,
+    "inss": 0.0
+  },
+  {
+    "nome": "RAFAELA APARECIDA DIAS DE OLIVEIRA",
+    "crm": "255060.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 3099.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "AYRTON GOIS DE OLIVEIRA",
+    "crm": "255181.0",
+    "hospital": "TIRADENTES",
+    "mes": "MAR/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "AYRTON GOIS DE OLIVEIRA",
+    "crm": "255181.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 14199.99645,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUIZ FERNANDO SPOSITO RIBEIRO BALTAZAR",
+    "crm": "255248.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 1449.999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS VELOSO CAVASSANI",
+    "crm": "255287.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS VELOSO CAVASSANI",
+    "crm": "255287.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 9599.9976,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS VELOSO CAVASSANI",
+    "crm": "255287.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "VINICIUS VELOSO CAVASSANI",
+    "crm": "255287.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 6399.9984,
+    "inss": 0.0
+  },
+  {
+    "nome": "GABRIELA CAETANO LOPES MARTINS",
+    "crm": "255321.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 699.9999599999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "KARINE KELLY DE OLIVEIRA",
+    "crm": "255495.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 3299.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "BERNARDO DE ALMEIDA GALINDO",
+    "crm": "255741.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "BERNARDO DE ALMEIDA GALINDO",
+    "crm": "255741.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 699.9999599999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO AUGUSTO LAJUS",
+    "crm": "255792.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 3970.555328666666,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO AUGUSTO LAJUS",
+    "crm": "255792.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 5296.666363999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "JOAO AUGUSTO LAJUS",
+    "crm": "255792.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 7861.388439666665,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANNA PAULA BASTOS LIMA",
+    "crm": "255898.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 2399.99999600004,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAMILA LATTANZI NUNES",
+    "crm": "255999.0",
+    "hospital": "HMB",
+    "mes": "JAN/27",
+    "ted": 1351.388888811667,
+    "inss": 0.0
+  },
+  {
+    "nome": "RODRIGO COSTA PACHECO DOS SANTOS",
+    "crm": "256068.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 699.9999599999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "GREGORI MARTINS DOMINGOS",
+    "crm": "256475.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 7199.99998800012,
+    "inss": 0.0
+  },
+  {
+    "nome": "GREGORI MARTINS DOMINGOS",
+    "crm": "256475.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "GREGORI MARTINS DOMINGOS",
+    "crm": "256475.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GREGORI MARTINS DOMINGOS",
+    "crm": "256475.0",
+    "hospital": "Tiradentes",
+    "mes": "JAN/27",
+    "ted": 0.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GREGORI MARTINS DOMINGOS",
+    "crm": "256475.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "MONALIZA MARIZETE BAUNGRATZ",
+    "crm": "256496.0",
+    "hospital": "CEJAM",
+    "mes": "MAR/27",
+    "ted": 11199.9972,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCEL VIEIRA GOMES",
+    "crm": "256539.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 10849.999944,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCEL VIEIRA GOMES",
+    "crm": "256539.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 17049.99912,
+    "inss": 0.0
+  },
+  {
+    "nome": "MARCEL VIEIRA GOMES",
+    "crm": "256539.0",
+    "hospital": "MBOI",
+    "mes": "MAR/27",
+    "ted": 13949.999928,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRÉ CRIPPA DA SILVA",
+    "crm": "256638.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 7749.999959999999,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANDRÉ CRIPPA DA SILVA",
+    "crm": "256638.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 6199.999680000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAROLINE DE AGUIAR DOS SANTOS",
+    "crm": "256642.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 4349.999998800001,
+    "inss": 0.0
+  },
+  {
+    "nome": "BABARA MATOS DE CARVALHO BORGES",
+    "crm": "256910.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 1500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "TARIK RADI CAMPOS MAFTOUM",
+    "crm": "256973.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 1625.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "WERNER IZOLAN LAUSMANN",
+    "crm": "256977.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "FRANCISCO WELLINGTON LOPES GUIMARÃES FILHO",
+    "crm": "257082.0",
+    "hospital": "HMMD",
+    "mes": "JAN/27",
+    "ted": 1549.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "FRANCISCO WELLINGTON LOPES GUIMARÃES FILHO",
+    "crm": "257082.0",
+    "hospital": "MBOI",
+    "mes": "MAR/27",
+    "ted": 1549.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "GEORGES BADIN HOFMEISTER",
+    "crm": "257193.0",
+    "hospital": "HGG",
+    "mes": "JAN/27",
+    "ted": 3250.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "GEORGES BADIN HOFMEISTER",
+    "crm": "257193.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 7499.754,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE XIMENES BARRETO",
+    "crm": "257340.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 9599.9976,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE XIMENES BARRETO",
+    "crm": "257340.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 9599.9976,
+    "inss": 0.0
+  },
+  {
+    "nome": "TAYNARA CAROLINE ALVES PEREIRA DINIZ",
+    "crm": "257377.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 7699.999599999998,
+    "inss": 0.0
+  },
+  {
+    "nome": "TAYNARA CAROLINE ALVES PEREIRA DINIZ",
+    "crm": "257377.0",
+    "hospital": "Pedreira",
+    "mes": "FEV/27",
+    "ted": 1399.99992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS LARANJEIRA LIMA",
+    "crm": "257698.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 3199.9992,
+    "inss": 0.0
+  },
+  {
+    "nome": "LUCAS LARANJEIRA LIMA",
+    "crm": "257698.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 9599.9976,
+    "inss": 0.0
+  },
+  {
+    "nome": "WALTER HUGO NUNEZ LOZANO",
+    "crm": "258232.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 9600.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "WALTER HUGO NUNEZ LOZANO",
+    "crm": "258232.0",
+    "hospital": "Tiradentes",
+    "mes": "JAN/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "WALTER HUGO NUNEZ LOZANO",
+    "crm": "258232.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 3000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "WALTER HUGO NUNEZ LOZANO",
+    "crm": "258232.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 12799.9968,
+    "inss": 0.0
+  },
+  {
+    "nome": "WALTER HUGO NUNEZ LOZANO",
+    "crm": "258232.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 23999.994,
+    "inss": 0.0
+  },
+  {
+    "nome": "DOMINGOS SAVIO GOMES FERREIRA FILHO",
+    "crm": "258456.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 12000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "FELIPE FERNANDES TELES",
+    "crm": "258865.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 1624.9795,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROGERIO NEVES",
+    "crm": "260559.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1350.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROGERIO NEVES",
+    "crm": "260559.0",
+    "hospital": "ITAIM",
+    "mes": "JAN/27",
+    "ted": 9599.9976,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROGERIO NEVES",
+    "crm": "260559.0",
+    "hospital": "ITAIM",
+    "mes": "MAR/27",
+    "ted": 7999.998000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROGERIO NEVES",
+    "crm": "260559.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 6000.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROGERIO NEVES",
+    "crm": "260559.0",
+    "hospital": "BRASILANDIA",
+    "mes": "MAR/27",
+    "ted": 7500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROGERIO NEVES",
+    "crm": "260559.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 15999.996,
+    "inss": 0.0
+  },
+  {
+    "nome": "ROGERIO NEVES",
+    "crm": "260559.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 4799.9988,
+    "inss": 0.0
+  },
+  {
+    "nome": "JULIO FERNANDO FERREIRA LIMA",
+    "crm": "260911.0",
+    "hospital": "HUSBC",
+    "mes": "JAN/27",
+    "ted": 1449.9999999996,
+    "inss": 0.0
+  },
+  {
+    "nome": "JULIO FERNANDO FERREIRA LIMA",
+    "crm": "260911.0",
+    "hospital": "Tiradentes",
+    "mes": "FEV/27",
+    "ted": 43675.96840000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "JULIO FERNANDO FERREIRA LIMA",
+    "crm": "260911.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 41275.969,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAMILA COELHO NOBREGA RIEDEL",
+    "crm": "260926.0",
+    "hospital": "Pedreira",
+    "mes": "JAN/27",
+    "ted": 2799.99984,
+    "inss": 0.0
+  },
+  {
+    "nome": "CAMILA COELHO NOBREGA RIEDEL",
+    "crm": "260926.0",
+    "hospital": "Pedreira",
+    "mes": "MAR/27",
+    "ted": 1582.499923,
+    "inss": 0.0
+  },
+  {
+    "nome": "GIOVANNA COSTA STAUT",
+    "crm": "264096.0",
+    "hospital": "HGG",
+    "mes": "MAR/27",
+    "ted": 1624.9795,
+    "inss": 0.0
+  },
+  {
+    "nome": "EDUARDO FREM DI NARDO",
+    "crm": "266637.0",
+    "hospital": "HMMD",
+    "mes": "MAR/27",
+    "ted": 2899.999992,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANILO PEREIRA LIMA SANTOS",
+    "crm": "80996.0",
+    "hospital": "BRASILANDIA",
+    "mes": "JAN/27",
+    "ted": 4500.0,
+    "inss": 0.0
+  },
+  {
+    "nome": "ANNE IZABELLY ALVES DA SILVA",
+    "crm": "270411.0",
+    "hospital": "Tiradentes",
+    "mes": "MAR/27",
+    "ted": 1599.9996,
+    "inss": 0.0
+  },
+  {
+    "nome": "DANIEL MORAES",
+    "crm": "139043.0",
+    "hospital": "HGP",
+    "mes": "JAN/27",
+    "ted": 7480.000000000001,
+    "inss": 0.0
+  },
+  {
+    "nome": "EDUARDO FREM DI NARDO",
+    "crm": "221965.0",
+    "hospital": "MBOI",
+    "mes": "FEV/27",
+    "ted": 2899.9999992,
+    "inss": 0.0
+  }
+]

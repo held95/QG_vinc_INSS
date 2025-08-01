@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>INSS - Médicos</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { background: #f8f9fa; padding: 30px; }
+    .card { border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    #resultTable th, #resultTable td { font-size: 0.9rem; }
+    textarea { height: 100px; resize: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2 class="text-center mb-4">Painel INSS - Médicos</h2>
+
+    <div class="card p-4 mb-4">
+      <div class="row g-3">
+        <div class="col-md-5">
+          <input type="text" id="searchName" class="form-control" placeholder="Buscar por nome...">
+        </div>
+        <div class="col-md-3">
+          <select id="statusFilter" class="form-select">
+            <option value="">Todos</option>
+            <option value="PAGO">Pago</option>
+            <option value="PENDENTE">Pendente</option>
+          </select>
+        </div>
+        <div class="col-md-4 text-end">
+          <button class="btn btn-primary" onclick="filtrar()">Filtrar</button>
+          <button class="btn btn-success" onclick="exportarExcel()">Excel</button>
+          <button class="btn btn-danger" onclick="exportarPDF()">PDF</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="card p-4 mb-4">
+      <label>Cole os nomes e valores recebidos:</label>
+      <textarea class="form-control" id="inputRecebimento" placeholder="Ex: JOÃO - 4000"></textarea>
+      <button class="btn btn-dark mt-2" onclick="processar()">Processar Recebimento</button>
+    </div>
+
+    <div class="card p-4">
+      <div class="table-responsive">
+        <table class="table table-striped" id="resultTable">
+          <thead>
+            <tr>
+              <th>Nome</th>
+              <th>CRM</th>
+              <th>Hospital</th>
+              <th>Mês</th>
+              <th>TED</th>
+              <th>INSS</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody id="resultBody"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script>
+    let dados = []
+
+    async function carregarJSON() {
+      const response = await fetch('base_inss.json');
+      dados = await response.json();
+      renderizarTabela(dados);
+    }
+
+    function statusPorNome(nome) {
+      const entradas = dados.filter(d => d.nome === nome.toUpperCase());
+      return entradas.some(e => e.ted > 0) ? 'PAGO' : 'PENDENTE';
+    }
+
+    function filtrar() {
+      const nome = document.getElementById('searchName').value.trim().toUpperCase();
+      const status = document.getElementById('statusFilter').value;
+
+      const filtrado = dados.filter(d => {
+        const statusPessoa = statusPorNome(d.nome);
+        return (!nome || d.nome.includes(nome)) && (!status || statusPessoa === status);
+      });
+
+      renderizarTabela(filtrado);
+    }
+
+    function renderizarTabela(lista) {
+      const tbody = document.getElementById('resultBody');
+      tbody.innerHTML = '';
+      lista.forEach(d => {
+        const status = d.ted > 0 ? 'PAGO' : 'PENDENTE';
+        tbody.innerHTML += `
+          <tr>
+            <td>${d.nome}</td>
+            <td>${d.crm}</td>
+            <td>${d.hospital}</td>
+            <td>${d.mes}</td>
+            <td>R$ ${d.ted.toFixed(2)}</td>
+            <td>R$ ${d.inss.toFixed(2)}</td>
+            <td>${status}</td>
+          </tr>`;
+      });
+    }
+
+    function obterAliquota(valor) {
+      if (valor <= 1412.00) return 7.5;
+      if (valor <= 2666.68) return 9;
+      if (valor <= 4000.03) return 12;
+      return 14;
+    }
+
+    function processar() {
+      const texto = document.getElementById('inputRecebimento').value.trim();
+      const linhas = texto.split('\n');
+      const tbody = document.getElementById('resultBody');
+      tbody.innerHTML = '';
+
+      linhas.forEach(linha => {
+        const [nomeRaw, valorRaw] = linha.split('-');
+        const nome = nomeRaw.trim().toUpperCase();
+        const valor = parseFloat(valorRaw.trim());
+        const aliq = obterAliquota(valor);
+        const inss = ((aliq / 100) * valor).toFixed(2);
+        const pessoa = dados.find(d => d.nome === nome);
+        tbody.innerHTML += `
+          <tr>
+            <td>${nome}</td>
+            <td>${pessoa?.crm || '-'}</td>
+            <td>${pessoa?.hospital || '-'}</td>
+            <td>${pessoa?.mes || '-'}</td>
+            <td>R$ ${valor.toFixed(2)}</td>
+            <td>R$ ${inss}</td>
+            <td>SIMULADO</td>
+          </tr>`;
+      });
+    }
+
+    function exportarExcel() {
+      const table = document.getElementById('resultTable');
+      const wb = XLSX.utils.table_to_book(table);
+      XLSX.writeFile(wb, 'relatorio_inss.xlsx');
+    }
+
+    async function exportarPDF() {
+      const { jsPDF } = window.jspdf;
+      const doc = new jsPDF();
+      doc.text("Relatório INSS", 14, 15);
+      const rows = Array.from(document.querySelectorAll('#resultTable tbody tr')).map(tr => {
+        return Array.from(tr.querySelectorAll('td')).map(td => td.textContent.trim());
+      });
+      let y = 25;
+      rows.forEach(r => {
+        doc.text(r.join(' | '), 14, y);
+        y += 7;
+      });
+      doc.save("relatorio_inss.pdf");
+    }
+
+    carregarJSON();
+  </script>
+</body>
+</html>
